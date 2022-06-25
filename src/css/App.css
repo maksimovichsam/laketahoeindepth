@@ -1,0 +1,66 @@
+:root {
+    --page-background: #627c78;
+    --ui-background: #0f5160;
+    --primary-font: #fff;
+}
+
+html {
+    background-color: var(--page-background);
+}
+
+* {
+    -webkit-tap-highlight-color:  rgba(255, 255, 255, 0); 
+}
+
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #d6dee1ac;
+    border-radius: 20px;
+    border: 6px solid transparent;
+    background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #a8bbbf;
+}
+
+.App {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    color: var(--primary-font);
+
+    width: 100vw;
+    height: 100vh;
+
+    /* border: 1px solid red; */
+
+    display: flex;
+    justify-content: center;
+}
+
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 58.25%;
+    height: 100%;
+
+    background-color: var(--ui-background);
+}
+
+.module-navigation {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    height: 250px;
+    width: 100%;
+}

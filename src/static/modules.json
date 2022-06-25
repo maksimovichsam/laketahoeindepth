@@ -1,0 +1,159 @@
+{
+    "IMAGES": {
+        "name": "Images",
+        "image": "/static/img/module-images.png",
+        "href": "images",
+        "description": "From professional photographers to selfie enthusiasts, everyone loves to photograph Lake Tahoe. Explore these images, and check out the live streaming videos from the mountaintops!",
+        "TABS": {
+            "PHOTOS": {
+                "name": "Photos",
+                "href": "photos"
+            },
+            "LIVE": {
+                "name": "Live",
+                "href": "live"
+            }
+        }
+    },
+    "ACTIVITIES": {
+        "name": "Activities",
+        "image": "/static/img/module-activities.png",
+        "href": "activities",
+        "description": "Tahoe is one of America's primary destinations for fun! Explore some of the fun activities you can enjoy here, while protecting this pristine environment.",
+        "TABS": {
+            "WATER": {
+                "name": "On the Water",
+                "href": "water",
+                "times": {
+                    "spring": [
+                        "boating",
+                        "fishing",
+                        "kayaking",
+                        "kitesurfing",
+                        "paddleboarding",
+                        "rafting",
+                        "sailing",
+                        "surfing",
+                        "swimming"
+                    ],
+                    "summer": [
+                        "boating",
+                        "fishing",
+                        "kayaking",
+                        "kitesurfing",
+                        "paddleboarding",
+                        "rafting",
+                        "sailing",
+                        "surfing",
+                        "swimming"
+                    ],
+                    "fall": [
+                        "boating",
+                        "fishing",
+                        "kayaking",
+                        "kitesurfing",
+                        "paddleboarding",
+                        "rafting",
+                        "sailing",
+                        "surfing",
+                        "swimming"
+                    ],
+                    "winter": [
+                        "fishing",
+                        "surfing"
+                    ]
+                }
+            },
+            "MOUNTAIN": {
+                "name": "On the Mountain",
+                "href": "mountain",
+                "times": {
+                    "spring": [
+                        "biking",
+                        "camping",
+                        "crossCountrySkiing",
+                        "golfing",
+                        "hiking",
+                        "museums",
+                        "playgrounds",
+                        "skiing",
+                        "snowshoeing"
+                    ],
+                    "summer": [
+                        "biking",
+                        "camping",
+                        "golfing",
+                        "hiking",
+                        "museums",
+                        "playgrounds",
+                        "rockclimbing"
+                    ],
+                    "fall": [
+                        "biking",
+                        "camping",
+                        "golfing",
+                        "hiking",
+                        "playgrounds",
+                        "rockclimbing",
+                        "sledding",
+                        "skiing",
+                        "snowshoeing"
+                    ],
+                    "winter": [
+                        "crossCountrySkiing",
+                        "museums",
+                        "playgrounds",
+                        "rockclimbing",
+                        "sledding",
+                        "skiing",
+                        "snowshoeing"
+                    ]
+                }
+            }
+        }
+    },
+    "WEATHER": {
+        "name": "Weather",
+        "image": "/static/img/module-weather.png",
+        "href": "weather",
+        "description": "Tahoe enjoys sunshine about 300 days of the year, but rain, hail, or even snow can happen in any season. Check the forecast and be prepared!",
+        "TABS": {
+            "TEMPERATURE": {
+                "name": "Temperature",
+                "href": "temperature",
+                "image": "/static/img/weather/background/weather_airtemp.png",
+                "desc": "Air temperature is recorded at weather stations around Lake Tahoe. Daily fluctuations depend on the time of year, cloud cover, wind speed and humidity."
+            },
+            "PRECIPITATION": {
+                "name": "Precipitation",
+                "href": "precipitation",
+                "image": "/static/img/weather/background/weather_precip.png",
+                "desc": "Precipitation can occur in any month at Lake Tahoe but predominantly occurs during the winter months. It can fall as rain or snow."
+            },
+            "WIND": {
+                "name": "Wind",
+                "href": "wind",
+                "image": "/static/img/weather/background/weather_wind.png",
+                "desc": "Wind speed is recorded at weather stations around Lake Tahoe. Daily fluctuations depend on time of day and seasonal weather fronts."
+            }
+        }
+    },
+    "CITIZEN SCIENCE": {
+        "name": "Citizen Science",
+        "image": "/static/img/module-citizen-science.png",
+        "href": "citizen-science",
+        "description": "Non-scientists contribute to our understanding of the Lake by recording water, land, and air conditions. Join the fun! Download the \"Citizen Science Tahoe\" app."
+    },
+    "RIVER CONDITIONS": {
+        "name": "River Conditions",
+        "image": "/static/img/module-river-conditions.png",
+        "href": "river-conditions",
+        "description": "There are 63 streams that feed into Lake Tahoe. The Truckee River, the only outflow from the lake, allows rafting if the lake level is high enough to flow out at the Tahoe City dam."
+    },
+    "LAKE CONDITIONS": {
+        "name": "Lake Conditions",
+        "image": "/static/img/module-lake-conditions.png",
+        "href": "lake-conditions",
+        "description": "Varying wave height, water temperature, algae concentrations, clarity, and lake levels all combine to create a complex and ever-changing freshwater environment."
+    }
+}

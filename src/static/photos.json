@@ -1,0 +1,1043 @@
+[
+    {
+        "location": "Incline Village",
+        "coords": [
+            39.249849,
+            -119.95264
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "Incline_mountainbiking_NLTRA.jpg",
+                    "credit": "Tyler Bourns"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "DiamondPeak_Winter_Toy3.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Incline_summer_NLTRA.jpg",
+                    "credit": "North Lake Tahoe Visitor Authority"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "Incline_Kayaking_NLTRA.jpg",
+                    "credit": "Chris Bartkowski"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Sand Harbor State Park",
+        "coords": [
+            39.198485,
+            -119.932195
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "SandHarbor_Fall_Wikipedia.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "SandHarbor_Winter_Wikipedia.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Sand_Harbor_Summer_KarenHutton.jpg",
+                    "credit": "Karen Hutton, Wikimedia Commons"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "SandHarbor_Spring_Wikimedia.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Marlette Lake",
+        "coords": [
+            39.173149,
+            -119.901551
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "Marlette_Fall_Flickr.jpg",
+                    "credit": "J. Cook, Flickr"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "MarletteLake_Winter_LakeTahoeAllAccess.jpg",
+                    "credit": "Lake Tahoe All Acess"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Marlette_Summer.jpg",
+                    "credit": "Rick Cooper, WikiCommons"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "Marlette_Spring_Flickr2.jpg",
+                    "credit": "DHReno, Flickr"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Skunk Harbor",
+        "coords": [
+            39.132873,
+            -119.946433
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "SkunkHarbor_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "SKunkHarbor_Winter_TahoeClarity.jpg",
+                    "credit": "Tahoe Clarity"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Skunk_Harbor_Summer_Flickr.jpg",
+                    "credit": "Flickr"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "SkunkHarbor_Spring_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Cave Rock",
+        "coords": [
+            39.043622,
+            -119.948744
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "CaveRock_Fall.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "CaveRock_Winter_LTVA.jpg",
+                    "credit": "Rachid Dahnoun, LTVA"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "CaveRock_Summer.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "CaveRockSpring.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Zephyr Cove",
+        "coords": [
+            39.007808,
+            -119.947069
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "ZephyrCove_FallSpring_LTVA.jpg",
+                    "credit": "Allen Hughes, LTVA"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "ZephyrCove_Winter_LTVA.jpg",
+                    "credit": "Lake Tahoe Visitor Authority"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "ZephyrCove_Summer_LTVA.jpg",
+                    "credit": "Rod Hanna, LTVA"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "ZephyrCove_Spring.jpg",
+                    "credit": "Don Graham, Flickr"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Heavenly",
+        "coords": [
+            38.941998,
+            -119.909175
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "Heavenly_Fall_Flickr.jpg",
+                    "credit": "Flickr"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "Heavenly_Winter_LTVA.jpg",
+                    "credit": "Matt Gibson, LTVA"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Heavenly_Summer_LTVA.jpg",
+                    "credit": "Lauren Lindley, LTVA"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "Heavenly_Spring.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ]
+        }
+    },
+    {
+        "location": "South Lake Tahoe",
+        "coords": [
+            38.944334,
+            -119.978517
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "SLT_Fall_WikimediaCommons.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "SLT_Winter_LTVA.jpg",
+                    "credit": "Lake Tahoe Visitor Authority"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "SLT_Summer_LTVA.jpg",
+                    "credit": "Lake Tahoe Visitor Authority"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "SLT_FallSpring_LTVA.jpg",
+                    "credit": "Lake Tahoe Visitor Authority"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Regan Beach/Lakeview Commons",
+        "coords": [
+            38.944403,
+            -119.981454
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "ReganBeach_fall.jpg",
+                    "credit": "Kendall Price Photography"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "Regan_Winter_LTVA.jpg",
+                    "credit": "Brian Scott, LTVA"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Regan_Summer_Wiki.jpg",
+                    "credit": "Aex Proimos, Wikimedia Commons"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "ReganBeach_Spring.jpg",
+                    "credit": "South Tahoe Standup Paddle, LTVA"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Camp Richardson",
+        "coords": [
+            38.93472,
+            -120.040838
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "Richardson_Fall_LTVA.jpg",
+                    "credit": "Ski Lake Tahoe, LTVA"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "Richardson_Winter_LTVA.jpg",
+                    "credit": "Blanke Everett, Wikimedia Commons"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Richardson_Summer_LTVA.jpg",
+                    "credit": "Jamie Kingham, LTVA"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "Richardson_Spring_LTVA.jpg",
+                    "credit": "Brian Williams, LTVA"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Taylor Creek",
+        "coords": [
+            38.935669,
+            -120.053
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "TaylorCreek_Fall.jpg",
+                    "credit": "Wikipedia Commons"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "TaylorCreek_Winter_Blogspot.jpg",
+                    "credit": "Blogspot"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "TaylorCreek_Summer_LTVA.jpg",
+                    "credit": "Brad Scott, LTVA"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "TaylorCreek_Spring_Flickr.jpg",
+                    "credit": "Flickr"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Fallen Leaf Lake",
+        "coords": [
+            38.905241,
+            -120.061436
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "FallenLeaf_Fall_LTVA.jpg",
+                    "credit": "Rachid Dahnoun, LTVA"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "FallenLeaf_Winter_Wiki.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "FallenLeaf_Summer_LTVA.jpg",
+                    "credit": "Merrick Rickman, LTVA"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "FallenLeaf_Spring_LTVA.jpg",
+                    "credit": "Brad Scott, LTVA"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Desolation Wilderness",
+        "coords": [
+            38.978208,
+            -120.187783
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "Desolation_fall_LTVA.jpg",
+                    "credit": "Lake Tahoe Visitor Authority"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "Desolation_Winter_WikipediaCommons.jpg",
+                    "credit": "Wikipedia Commons"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Desolation_summer_wikipedia.jpg",
+                    "credit": "Wikipedia Commons"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "Desolation_spring_wikipediacommons.jpg",
+                    "credit": "Wikipedia Commons"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Emerald Bay",
+        "coords": [
+            38.955301,
+            -120.095943
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "Emeraldbay_fall_wikipedia.jpg",
+                    "credit": "Wikipedia Commons"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "Emeraldbay_winter_wikipedia.jpg",
+                    "credit": "Wikipedia Commons"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Emeraldbay_Summer_Flickr.jpg",
+                    "credit": "Reno Tahoe Authority, Flickr"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "Emeraldbay_Spring_wikipedia.jpg",
+                    "credit": "Wikipedia Commons"
+                }
+            ]
+        }
+    },
+    {
+        "location": "DL Bliss State Park",
+        "coords": [
+            38.999399,
+            -120.100368
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "DLBliss_Fall_Wikimedia.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "DLBliss_Rubicontraillighthouse_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "DLBliss_Summer_Flickr.jpg",
+                    "credit": "Ray Bouknight, Flickr"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "DLBliss_Spring_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Rubicon Bay",
+        "coords": [
+            39.013314,
+            -120.114411
+        ],
+        "photos": {
+            "Fall": [],
+            "Winter": [],
+            "Summer": [
+                {
+                    "filename": "RubiconBay_Summer_Flickr_RayBouknight.jpg",
+                    "credit": "Flickr, Ray Bouknight"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "RubiconBay_Spring_Flickr_RayBouknight.jpg",
+                    "credit": "Flickr, Ray Bouknight"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Meeks Bay",
+        "coords": [
+            39.038691,
+            -120.123228
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "MeeksBay_Fall.jpg",
+                    "credit": "Meeks Bay Realty"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "MeeksBay_Winter.jpg",
+                    "credit": "Meeks Bay Realty"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "MeeksBay_Summer_Flickr_IanGratton.jpg",
+                    "credit": "Ian Gratton, Flickr"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "MeeksBay_Spring_Flickr.jpg",
+                    "credit": "The Tahoe Guy, Flickr"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Tahoma",
+        "coords": [
+            39.067382,
+            -120.128587
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "Tahoma_Fall_Flickr.jpg",
+                    "credit": "Flickr, Christian Arballo"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "Tahoma_Winter_BlogSpotKaty.jpg",
+                    "credit": "BlogSpot"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Tahoma_summer.jpg",
+                    "credit": "Sierra State Parks Foundation"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "Tahoma_spring.jpg",
+                    "credit": "Flickr"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Sugar Pine Point State Park",
+        "coords": [
+            39.053489,
+            -120.113454
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "SugarPine_fall.jpg",
+                    "credit": "Sierra State Parks Foundation"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "SugarPine_winter.jpg",
+                    "credit": "Sierra State Parks Foundation"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "SugarPine_summer.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "SugarPine_spring.jpg",
+                    "credit": "Flickr"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Homewood",
+        "coords": [
+            39.085596,
+            -120.160521
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "Homewood_Fall.jpg",
+                    "credit": "Flickr, Gabi L."
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "Homewood_Winter_RyanSalmPhotography.jpg",
+                    "credit": "Ryan Salm Photography"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Homewood_Summer_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "Homewood_Spring.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Eagle Rock",
+        "coords": [
+            39.109061,
+            -120.161395
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "EagleRock_Fall_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "EagleRock_Winter_Agustin.jpg",
+                    "credit": "Sandra Day Morales Agustin"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "EagleRock_Summer_Wikicommons.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "EagleRock_Spring_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Hurricane Bay",
+        "coords": [
+            39.122917,
+            -120.161487
+        ],
+        "photos": {
+            "Fall": [],
+            "Winter": [
+                {
+                    "filename": "HurricanBay_Winter2.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "HurricaneBay_Summer_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "HurrianeBay_Spring_LauraAllen.jpg",
+                    "credit": "Laura Allen, Tahoe Laura Luxury Homes"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Sunnyside",
+        "coords": [
+            39.139151,
+            -120.153573
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "Sunnyside_Fall.jpg",
+                    "credit": "Sunnyside Restaurant and Lodge"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "Sunnyside_Winter_NLTRA.jpg",
+                    "credit": "North Lake Tahoe Resort Association"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Sunnyside_Summer.jpg",
+                    "credit": "Gerry Morre, Kiwi Kamera"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "Sunnyside_Spring.jpg",
+                    "credit": "Sunnyside Restaurant and Lodge"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Alpine Meadows",
+        "coords": [
+            39.164582,
+            -120.238795
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "AlpineMeadows_Fall_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "Alpine_Winter_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "AlpineMeadows_Summer_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "AlpineMeadows_Spring_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Squaw Valley",
+        "coords": [
+            39.195854,
+            -120.235207
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "Squaw_Fall_Toy2.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "Squaw_Winter_Flickr.jpg",
+                    "credit": "Flickr, Squaw Valley Lodge"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Squaw_Summer_Flickr.jpg",
+                    "credit": "Flickr, Squaw Valley Lodge"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "Squaw_Spring_McMahon.jpg",
+                    "credit": "Nick McMahon"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Tahoe City",
+        "coords": [
+            39.17058,
+            -120.142262
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "TahoeCity_Fall_NLTRA.jpg",
+                    "credit": "North Lake Tahoe Resort Association"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "TahoeCity_Winter_Niobe Burden.jpg",
+                    "credit": "Niobe Burden"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "TahoeCity_Summer_RyanSalmPhotography.jpg",
+                    "credit": "Ryan Salm Photography"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "TahoeCity_Spring_McMahon.jpg",
+                    "credit": "Nick McMahon"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Dollar Point",
+        "coords": [
+            39.1865,
+            -120.096049
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "Skylandia_Sunset_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "Skylandia_Winter_McMahon.jpg",
+                    "credit": "Nick McMahon"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Skylandia_Summer_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "Skylandia_Spring_McMahon.jpg",
+                    "credit": "Nick McMahon"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Carnelian Bay",
+        "coords": [
+            39.226725,
+            -120.081893
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "CarnelianBay_Fall.jpg",
+                    "credit": "North Lake Tahoe Resort Association"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "CarnelianBay_Winter2_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "CarnelianBay_Summer_NLTRA.jpg",
+                    "credit": "North Lake Tahoe Resort Association"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "CarnelianBay_Spring_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Tahoe Vista",
+        "coords": [
+            39.239805,
+            -120.048555
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "TahoeVista_MoonDunes_Fall_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "TahoeVista_Winter2_Flickr.jpg",
+                    "credit": "Flickr, Mike Vondran"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "TahoeVista_Summer_pix.jpg",
+                    "credit": "Pixabay"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "TahoeVista_Spring_McMahon.jpg",
+                    "credit": "Nick McMahon"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Kings Beach",
+        "coords": [
+            39.236861,
+            -120.024789
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "KingsBeach_Fall_Flickr_KenLund.jpg",
+                    "credit": "Flickr, Ken Lund"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "KingsBeach_Winter_NLTRA.jpg",
+                    "credit": "North Lake Tahoe Resort Association"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "KingsBeach_Summer.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "KingsBeach_Spring_WikiCommons.jpg",
+                    "credit": "WikiCommons (DimiCalifornia) "
+                }
+            ]
+        }
+    },
+    {
+        "location": "Northstar",
+        "coords": [
+            39.274957,
+            -120.120601
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "Northstar_Fall.jpg",
+                    "credit": "Northstar California"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "Northstar_Winter_Vail.jpg",
+                    "credit": "Northstar California"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "Northstar_Summer.jpg",
+                    "credit": "Northstar California"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "Northstar_Spring.jpg",
+                    "credit": "Northstar California"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Mount Rose",
+        "coords": [
+            39.3437,
+            -119.9171
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "MtRose_Winter2_NLTRA.jpg",
+                    "credit": "North Lake Tahoe Resort Association"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "MtRose_Winter_NLTRA.jpg",
+                    "credit": "North Lake Tahoe Resort Association"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "MtRose_Summer_Trover.jpg",
+                    "credit": "Trover"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "MtRose_Spring_WikimediaCommons.jpg",
+                    "credit": "Wikimedia Commons"
+                }
+            ]
+        }
+    }
+]

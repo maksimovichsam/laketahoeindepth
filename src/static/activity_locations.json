@@ -1,0 +1,6716 @@
+[
+    {
+        "activity": "Birdwatching",
+        "activity_group": "On the Water",
+        "coords": [
+            39.166842,
+            -120.144338
+        ],
+        "location": "Fanny Bridge"
+    },
+    {
+        "activity": "Birdwatching",
+        "activity_group": "On the Water",
+        "coords": [
+            38.925737,
+            -119.975038
+        ],
+        "location": "Trout Creek"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.397785,
+            -120.108229
+        ],
+        "location": "Boca Reservoir"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            38.934489,
+            -120.04098
+        ],
+        "location": "Camp Richardson Resort"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.044146,
+            -119.94891
+        ],
+        "location": "Cave Rock Boat Ramp"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.234614,
+            -120.02267
+        ],
+        "location": "Coon St. Boat Launch"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            38.977767,
+            -120.102996
+        ],
+        "location": "D.L. Bliss State Park"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.324785,
+            -120.264068
+        ],
+        "location": "Donner Lake"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.324538,
+            -120.286286
+        ],
+        "location": "Donner Lake Marina"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            38.8422448,
+            -120.06508
+        ],
+        "location": "Echo Lakes"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0732613,
+            -120.1445
+        ],
+        "location": "Ed Z'berg Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9344978,
+            -119.98435
+        ],
+        "location": "El Dorado Beach & Boat Ramp"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            38.95447,
+            -120.11048
+        ],
+        "location": "Emerald Bay State Park"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            38.880757,
+            -120.069275
+        ],
+        "location": "Fallen Leaf Lake"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            38.8789406,
+            -120.06576
+        ],
+        "location": "Fallen Leaf Marina"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.139325,
+            -120.153747
+        ],
+        "location": "High Sierra Water Ski School"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.084742,
+            -120.159408
+        ],
+        "location": "Homewood Marina"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.121587,
+            -120.161498
+        ],
+        "location": "Hurricane Bay"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.236493,
+            -120.025453
+        ],
+        "location": "Kings Beach State Recreation Area"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.182008,
+            -120.11969
+        ],
+        "location": "Lake Forest Boat Ramp"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9588394,
+            -119.95119
+        ],
+        "location": "Lakeside Marina"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.318727,
+            -120.113144
+        ],
+        "location": "Martis Creek Lake"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.038657,
+            -120.123754
+        ],
+        "location": "Meeks Bay Resort & Marina"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.237881,
+            -120.04306
+        ],
+        "location": "North Tahoe Marina"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.081761,
+            -120.157641
+        ],
+        "location": "Obexer's Boat Co."
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.379803,
+            -120.157553
+        ],
+        "location": "Prosser Creek Reservoir"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.200577,
+            -119.930372
+        ],
+        "location": "Sand Harbor Boat Ramp"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.236847,
+            -120.029839
+        ],
+        "location": "Secline Beach"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.226563,
+            -120.080528
+        ],
+        "location": "Sierra Boat Co."
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.240096,
+            -119.945476
+        ],
+        "location": "Ski Beach Boat Launch (IVGID only)"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9496803,
+            -119.95895
+        ],
+        "location": "Ski Run Boat Company"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.468512,
+            -120.131632
+        ],
+        "location": "Stampede Reservoir"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.139077,
+            -120.1553769
+        ],
+        "location": "Sunnyside Marina"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.171851,
+            -120.137902
+        ],
+        "location": "Tahoe City Marina"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.3257949,
+            -120.2380744
+        ],
+        "location": "Tahoe Donner Beach Club Marina"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9331589,
+            -120.00052
+        ],
+        "location": "Tahoe Keys Marina"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.239373,
+            -120.048407
+        ],
+        "location": "Tahoe Vista Rec. Area"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9464417,
+            -119.96696
+        ],
+        "location": "Timber Cove Marina"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.139856,
+            -120.154001
+        ],
+        "location": "William Kent Beach"
+    },
+    {
+        "activity": "Boating",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0093689,
+            -119.94726
+        ],
+        "location": "Zephyr Cove Resort Marina"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.390974,
+            -120.092438
+        ],
+        "location": "Boca Reservoir"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9872131,
+            -119.94563
+        ],
+        "location": "Cave Rock State Park"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.977767,
+            -120.102993
+        ],
+        "location": "D.L. Bliss State Park"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9539007,
+            -120.2020549
+        ],
+        "location": "Desolation Wilderness"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.324785,
+            -120.264066
+        ],
+        "location": "Donner Lake"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.8422448,
+            -120.06508
+        ],
+        "location": "Echo Lakes"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0732613,
+            -120.1446
+        ],
+        "location": "Ed Z'berg Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.95447,
+            -120.110477
+        ],
+        "location": "Emerald Bay State Park"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.880757,
+            -120.069273
+        ],
+        "location": "Fallen Leaf Lake"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.236493,
+            -120.025454
+        ],
+        "location": "Kings Beach State Recreation Area"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.318727,
+            -120.113142
+        ],
+        "location": "Martis Creek Lake"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.379803,
+            -120.157551
+        ],
+        "location": "Prosser Creek Reservoir"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.199166,
+            -120.217718
+        ],
+        "location": "Resort at Squaw Creek"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.257913,
+            -120.111677
+        ],
+        "location": "Sawmill Lake"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.8886608,
+            -120.02611
+        ],
+        "location": "Sawmill Pond; Kids Fishing"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.236847,
+            -120.02984
+        ],
+        "location": "Secline Beach"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.10447,
+            -119.897294
+        ],
+        "location": "Spooner Lake"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.468512,
+            -120.131625
+        ],
+        "location": "Stampede Reservoir"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.936285,
+            -120.014409
+        ],
+        "location": "Tahoe Keys"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.174709,
+            -120.136985
+        ],
+        "location": "Tahoe State Recreation Area"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9302673,
+            -119.97864
+        ],
+        "location": "Tahoe Trout Farm"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.865718,
+            -120.022439
+        ],
+        "location": "Washoe Meadows State Park"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.318432,
+            -120.289604
+        ],
+        "location": "West End Beach"
+    },
+    {
+        "activity": "Fishing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.139856,
+            -120.154002
+        ],
+        "location": "William Kent Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1645694444,
+            -120.143661111
+        ],
+        "location": "64 Acres Beach Access"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.238826,
+            -120.048809
+        ],
+        "location": "Agatam Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9423891,
+            -120.06556
+        ],
+        "location": "Baldwin Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.390974,
+            -120.092441
+        ],
+        "location": "Boca Reservoir"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.246374,
+            -119.968292
+        ],
+        "location": "Burnt Cedar Beach (IVGID only)"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9382583333,
+            -120.039183333
+        ],
+        "location": "Camp Richardson Resort"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.937742,
+            -120.039268
+        ],
+        "location": "Camp Richardson-Cascade"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2261861111,
+            -120.080208333
+        ],
+        "location": "Carnelian Bay (Patton/Watermens Landing)"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2256361111,
+            -120.082897222
+        ],
+        "location": "Carnelian Bay (West)"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.225432,
+            -120.083348
+        ],
+        "location": "Carnelian Bay Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0424,
+            -119.948602778
+        ],
+        "location": "Cave Rock Boat Launch"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9872131,
+            -119.94566
+        ],
+        "location": "Cave Rock State Park"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.072434,
+            -120.141647
+        ],
+        "location": "Chambers Landing Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.16767,
+            -119.926577
+        ],
+        "location": "Chimney Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1692833333,
+            -120.142036111
+        ],
+        "location": "Commons Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9471055556,
+            -119.966427778
+        ],
+        "location": "Connolly Beach/Beach Retreat & Lodge at Tahoe"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.23461,
+            -120.022695
+        ],
+        "location": "Coon Street Dog Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.977767,
+            -120.102995
+        ],
+        "location": "D.L. Bliss State Park"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0003222222,
+            -120.101366667
+        ],
+        "location": "D.L. Bliss State Park (Lester Beach/Campground)"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.324785,
+            -120.264065
+        ],
+        "location": "Donner Lake"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0112805556,
+            -119.947544444
+        ],
+        "location": "Dreyfus Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.8422448,
+            -120.06509
+        ],
+        "location": "Echo Lakes"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0732613,
+            -120.1444
+        ],
+        "location": "Ed Z'berg Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9344978,
+            -119.98436
+        ],
+        "location": "El Dorado Beach & Boat Ramp"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.114415,
+            -120.158078
+        ],
+        "location": "Elizabeth Williams Park"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.95447,
+            -120.110479
+        ],
+        "location": "Emerald Bay State Park"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.880757,
+            -120.06927
+        ],
+        "location": "Fallen Leaf Lake"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.173664,
+            -119.928952
+        ],
+        "location": "Hidden Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0845444444,
+            -120.159580556
+        ],
+        "location": "Homewood Marina"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.121587,
+            -120.161498
+        ],
+        "location": "Hurricane Bay"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.240342,
+            -119.9486541
+        ],
+        "location": "Incline Beach (IVGID only)"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.243489,
+            -119.94273
+        ],
+        "location": "Incline Village Recreation Center"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1129888889,
+            -120.1581
+        ],
+        "location": "Kaspian Beach Picnic Area"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.236493,
+            -120.025449
+        ],
+        "location": "Kings Beach State Recreation Area"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2347527778,
+            -120.022388889
+        ],
+        "location": "Kings Beach/Coon Street Boat Ramp"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9395083333,
+            -120.052802778
+        ],
+        "location": "Kiva Beach/Tallac Historic Site"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1809361111,
+            -120.115355556
+        ],
+        "location": "Lake Forest Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.181088,
+            -120.115389
+        ],
+        "location": "Lake Forest Beach Park"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1813027778,
+            -120.119588889
+        ],
+        "location": "Lake Forest Boat Ramp/Campground"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.94435,
+            -119.977297222
+        ],
+        "location": "Lakeview Commons/ Boat Ramp"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.318727,
+            -120.113143
+        ],
+        "location": "Martis Creek Lake"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0361916667,
+            -120.121791667
+        ],
+        "location": "Meeks Bay Beach and Campground"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0374111111,
+            -120.122625
+        ],
+        "location": "Meeks Bay Resort"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.038657,
+            -120.123756
+        ],
+        "location": "Meeks Bay Resort & Marina"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.209462,
+            -119.929719
+        ],
+        "location": "Memorial Point"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.238296,
+            -120.041194
+        ],
+        "location": "Moon Dunes Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9821888889,
+            -119.953822222
+        ],
+        "location": "Nevada Beach /Campground"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.237192,
+            -120.031704
+        ],
+        "location": "North Tahoe Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0812694444,
+            -120.1579
+        ],
+        "location": "Obexer's Marina (Beach Area)"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.226319,
+            -120.079618
+        ],
+        "location": "Patton Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.226711,
+            -120.07947
+        ],
+        "location": "Patton Landing"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.936825,
+            -120.029997222
+        ],
+        "location": "Pope Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.379803,
+            -120.157552
+        ],
+        "location": "Prosser Creek Reservoir"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9440805556,
+            -119.986008333
+        ],
+        "location": "Regan Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9899055556,
+            -119.952130556
+        ],
+        "location": "Roundhill Pines Beach/Marina"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2005555556,
+            -119.930052778
+        ],
+        "location": "Sand Harbor"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.198565,
+            -119.928292
+        ],
+        "location": "Sand Harbor Nevada State Park"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.239929,
+            -120.051354
+        ],
+        "location": "Sandy Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.889069,
+            -120.025974
+        ],
+        "location": "Sawmill Pond"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.236847,
+            -120.029837
+        ],
+        "location": "Secline Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.147787,
+            -119.933682
+        ],
+        "location": "Secret Harbor"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.326755,
+            -120.265468
+        ],
+        "location": "Shoreline Park"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.240096,
+            -119.945473
+        ],
+        "location": "Ski Beach (IVGID only)"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.128757,
+            -119.931371
+        ],
+        "location": "Skunk Harbor"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.184175,
+            -120.110191
+        ],
+        "location": "Skylandia Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.223942,
+            -120.008617
+        ],
+        "location": "Speedboat Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.468512,
+            -120.131629
+        ],
+        "location": "Stampede Reservoir"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0499555556,
+            -120.113263889
+        ],
+        "location": "Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1387277778,
+            -120.153113889
+        ],
+        "location": "Sunnyside Marina (Beach area)"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.174709,
+            -120.136987
+        ],
+        "location": "Tahoe State Recreation Area"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2390388889,
+            -120.048141667
+        ],
+        "location": "Tahoe Vista Recreation Area"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.947178,
+            -119.966484
+        ],
+        "location": "Timber Cove"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1663166667,
+            -120.143441667
+        ],
+        "location": "Truckee River Outlet / Gatekeeper's Museum"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.844736,
+            -120.029469
+        ],
+        "location": "Upper Truckee River"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9327361111,
+            -120.000525
+        ],
+        "location": "Upper Truckee River Access"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.318432,
+            -120.289604
+        ],
+        "location": "West End Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.139856,
+            -120.154003
+        ],
+        "location": "William Kent Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1396722222,
+            -120.153936111
+        ],
+        "location": "William Kent Beach (Campground)"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0093689,
+            -119.94726
+        ],
+        "location": "Zephyr Cove Beach"
+    },
+    {
+        "activity": "Kayaking & Canoeing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0078972222,
+            -119.948005556
+        ],
+        "location": "Zephyr Cove Resort"
+    },
+    {
+        "activity": "Kite Surfing & Windsurfing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9423891,
+            -120.06557
+        ],
+        "location": "Baldwin Beach"
+    },
+    {
+        "activity": "Kite Surfing & Windsurfing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.390974,
+            -120.092443
+        ],
+        "location": "Boca Reservoir"
+    },
+    {
+        "activity": "Kite Surfing & Windsurfing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.324785,
+            -120.264069
+        ],
+        "location": "Donner Lake"
+    },
+    {
+        "activity": "Kite Surfing & Windsurfing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.8422448,
+            -120.06508
+        ],
+        "location": "Echo Lakes"
+    },
+    {
+        "activity": "Kite Surfing & Windsurfing",
+        "activity_group": "On the Water",
+        "coords": [
+            38.880757,
+            -120.069274
+        ],
+        "location": "Fallen Leaf Lake"
+    },
+    {
+        "activity": "Kite Surfing & Windsurfing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.236493,
+            -120.025451
+        ],
+        "location": "Kings Beach State Recreation Area"
+    },
+    {
+        "activity": "Kite Surfing & Windsurfing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.468512,
+            -120.131634
+        ],
+        "location": "Stampede Reservoir"
+    },
+    {
+        "activity": "Kite Surfing & Windsurfing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.174709,
+            -120.136987
+        ],
+        "location": "Tahoe State Recreation Area"
+    },
+    {
+        "activity": "Kite Surfing & Windsurfing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0093689,
+            -119.94726
+        ],
+        "location": "Zephyr Cove Beach"
+    },
+    {
+        "activity": "other",
+        "activity_group": "On the Water",
+        "coords": [
+            39.167087,
+            -120.14406
+        ],
+        "location": "Lake Tahoe Dam"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1645694444,
+            -120.143661111
+        ],
+        "location": "64 Acres Beach Access"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.238826,
+            -120.048809
+        ],
+        "location": "Agatam Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9433138889,
+            -120.068675
+        ],
+        "location": "Baldwin Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.390974,
+            -120.09244
+        ],
+        "location": "Boca Reservoir"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.246374,
+            -119.968292
+        ],
+        "location": "Burnt Cedar Beach (IVGID only)"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9382583333,
+            -120.039183333
+        ],
+        "location": "Camp Richardson Resort"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2261861111,
+            -120.080208333
+        ],
+        "location": "Carnelian Bay (Patton/Watermens Landing)"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2256361111,
+            -120.082897222
+        ],
+        "location": "Carnelian Bay (West)"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.225432,
+            -120.083348
+        ],
+        "location": "Carnelian Bay Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0424,
+            -119.948602778
+        ],
+        "location": "Cave Rock Boat Launch"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9872131,
+            -119.94565
+        ],
+        "location": "Cave Rock State Park"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.072434,
+            -120.141647
+        ],
+        "location": "Chambers Landing Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.16767,
+            -119.926577
+        ],
+        "location": "Chimney Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1692833333,
+            -120.142036111
+        ],
+        "location": "Commons Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9471055556,
+            -119.966427778
+        ],
+        "location": "Connolly Beach/Beach Retreat & Lodge at Tahoe"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.23461,
+            -120.022695
+        ],
+        "location": "Coon Street Dog Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.977767,
+            -120.102994
+        ],
+        "location": "D.L. Bliss State Park"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0003222222,
+            -120.101366667
+        ],
+        "location": "D.L. Bliss State Park (Lester Beach/Campground)"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.324785,
+            -120.264064
+        ],
+        "location": "Donner Lake"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0112805556,
+            -119.947544444
+        ],
+        "location": "Dreyfus Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.8422448,
+            -120.0651
+        ],
+        "location": "Echo Lakes"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0732613,
+            -120.1443
+        ],
+        "location": "Ed Z'berg Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9344978,
+            -119.98437
+        ],
+        "location": "El Dorado Beach & Boat Ramp"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.114415,
+            -120.158078
+        ],
+        "location": "Elizabeth Williams Park"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9338341,
+            -120.05147
+        ],
+        "location": "Emerald Bay Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.95447,
+            -120.110478
+        ],
+        "location": "Emerald Bay State Park"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.880757,
+            -120.069271
+        ],
+        "location": "Fallen Leaf Lake"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.173664,
+            -119.928952
+        ],
+        "location": "Hidden Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0845444444,
+            -120.159580556
+        ],
+        "location": "Homewood Marina"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.121587,
+            -120.161498
+        ],
+        "location": "Hurricane Bay"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.240342,
+            -119.9486541
+        ],
+        "location": "Incline Beach (IVGID only)"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.243489,
+            -119.94273
+        ],
+        "location": "Incline Village Recreation Center"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1129888889,
+            -120.1581
+        ],
+        "location": "Kaspian Beach Picnic Area"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.236493,
+            -120.02545
+        ],
+        "location": "Kings Beach State Recreation Area"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2347527778,
+            -120.022388889
+        ],
+        "location": "Kings Beach/Coon Street Boat Ramp"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9395083333,
+            -120.052802778
+        ],
+        "location": "Kiva Beach/Tallac Historic Site"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1809361111,
+            -120.115355556
+        ],
+        "location": "Lake Forest Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.181088,
+            -120.115389
+        ],
+        "location": "Lake Forest Beach Park"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1813027778,
+            -120.119588889
+        ],
+        "location": "Lake Forest Boat Ramp/Campground"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.94435,
+            -119.977297222
+        ],
+        "location": "Lakeview Commons/ Boat Ramp"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.318727,
+            -120.113145
+        ],
+        "location": "Martis Creek Lake"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0361916667,
+            -120.121791667
+        ],
+        "location": "Meeks Bay Beach and Campground"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0374111111,
+            -120.122625
+        ],
+        "location": "Meeks Bay Resort"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.038657,
+            -120.123757
+        ],
+        "location": "Meeks Bay Resort & Marina"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.209462,
+            -119.92972
+        ],
+        "location": "Memorial Point"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.238296,
+            -120.041194
+        ],
+        "location": "Moon Dunes Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9821888889,
+            -119.953822222
+        ],
+        "location": "Nevada Beach /Campground"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.237192,
+            -120.031704
+        ],
+        "location": "North Tahoe Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0812694444,
+            -120.1579
+        ],
+        "location": "Obexer's Marina (Beach Area)"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.226319,
+            -120.079618
+        ],
+        "location": "Patton Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.226711,
+            -120.079471
+        ],
+        "location": "Patton Landing"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.936825,
+            -120.029997222
+        ],
+        "location": "Pope Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.379803,
+            -120.157554
+        ],
+        "location": "Prosser Creek Reservoir"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9440805556,
+            -119.986008333
+        ],
+        "location": "Regan Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9899055556,
+            -119.952130556
+        ],
+        "location": "Roundhill Pines Beach/Marina"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2005555556,
+            -119.930052778
+        ],
+        "location": "Sand Harbor"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.198565,
+            -119.928293
+        ],
+        "location": "Sand Harbor Nevada State Park"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.239929,
+            -120.051354
+        ],
+        "location": "Sandy Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.236847,
+            -120.029838
+        ],
+        "location": "Secline Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.147787,
+            -119.933683
+        ],
+        "location": "Secret Harbor"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.326755,
+            -120.265469
+        ],
+        "location": "Shoreline Park"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.240096,
+            -119.945474
+        ],
+        "location": "Ski Beach (IVGID only)"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.128757,
+            -119.931372
+        ],
+        "location": "Skunk Harbor"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.184175,
+            -120.110191
+        ],
+        "location": "Skylandia Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.223942,
+            -120.008618
+        ],
+        "location": "Speedboat Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.468512,
+            -120.13163
+        ],
+        "location": "Stampede Reservoir"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0499555556,
+            -120.113263889
+        ],
+        "location": "Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1387277778,
+            -120.153113889
+        ],
+        "location": "Sunnyside Marina (Beach area)"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2390388889,
+            -120.048141667
+        ],
+        "location": "Tahoe Vista Recreation Area"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1663166667,
+            -120.143441667
+        ],
+        "location": "Truckee River Outlet / Gatekeeper's Museum"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9327361111,
+            -120.000525
+        ],
+        "location": "Upper Truckee River Access"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.318432,
+            -120.289605
+        ],
+        "location": "West End Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.139856,
+            -120.154004
+        ],
+        "location": "William Kent Beach"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1396722222,
+            -120.153936111
+        ],
+        "location": "William Kent Beach (Campground)"
+    },
+    {
+        "activity": "Paddleboarding",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0078972222,
+            -119.948005556
+        ],
+        "location": "Zephyr Cove Resort"
+    },
+    {
+        "activity": "Public Pier",
+        "activity_group": "On the Water",
+        "coords": [
+            39.326965,
+            -120.265289
+        ],
+        "location": "Donner Lake Public Pier"
+    },
+    {
+        "activity": "Public Pier",
+        "activity_group": "On the Water",
+        "coords": [
+            39.225546,
+            -120.083323
+        ],
+        "location": "Gar Woods Grill & Pier"
+    },
+    {
+        "activity": "Public Pier",
+        "activity_group": "On the Water",
+        "coords": [
+            39.171486,
+            -120.138643
+        ],
+        "location": "Grove Street Pier"
+    },
+    {
+        "activity": "Public Pier",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1145791,
+            -120.1586221
+        ],
+        "location": "Kaspian Picnic Area"
+    },
+    {
+        "activity": "Public Pier",
+        "activity_group": "On the Water",
+        "coords": [
+            39.23565,
+            -120.023934
+        ],
+        "location": "Kings Beach Public Pier"
+    },
+    {
+        "activity": "Public Pier",
+        "activity_group": "On the Water",
+        "coords": [
+            39.181165,
+            -120.119773
+        ],
+        "location": "Lake Forest Pier"
+    },
+    {
+        "activity": "Public Pier",
+        "activity_group": "On the Water",
+        "coords": [
+            39.183807,
+            -120.108202
+        ],
+        "location": "Skylandia Park Pier"
+    },
+    {
+        "activity": "Public Pier",
+        "activity_group": "On the Water",
+        "coords": [
+            39.053547,
+            -120.113174
+        ],
+        "location": "Sugar Pine Point Pier"
+    },
+    {
+        "activity": "Rafting",
+        "activity_group": "On the Water",
+        "coords": [
+            39.164627,
+            -120.147321
+        ],
+        "location": "64-Acres Park"
+    },
+    {
+        "activity": "Rafting",
+        "activity_group": "On the Water",
+        "coords": [
+            38.925737,
+            -119.975037
+        ],
+        "location": "Trout Creek"
+    },
+    {
+        "activity": "Sailing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.390974,
+            -120.092443
+        ],
+        "location": "Boca Reservoir"
+    },
+    {
+        "activity": "Sailing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.324785,
+            -120.264067
+        ],
+        "location": "Donner Lake"
+    },
+    {
+        "activity": "Sailing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.139325,
+            -120.153747
+        ],
+        "location": "High Sierra Water Ski School"
+    },
+    {
+        "activity": "Sailing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.084742,
+            -120.159408
+        ],
+        "location": "Homewood Marina"
+    },
+    {
+        "activity": "Sailing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.038657,
+            -120.123758
+        ],
+        "location": "Meeks Bay Resort & Marina"
+    },
+    {
+        "activity": "Sailing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.081761,
+            -120.157642
+        ],
+        "location": "Obexer's Boat Co."
+    },
+    {
+        "activity": "Sailing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.379803,
+            -120.157556
+        ],
+        "location": "Prosser Creek Reservoir"
+    },
+    {
+        "activity": "Sailing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.468512,
+            -120.131633
+        ],
+        "location": "Stampede Reservoir"
+    },
+    {
+        "activity": "Surfing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.236493,
+            -120.025452
+        ],
+        "location": "Kings Beach State Recreation Area"
+    },
+    {
+        "activity": "Surfing",
+        "activity_group": "On the Water",
+        "coords": [
+            39.174709,
+            -120.136988
+        ],
+        "location": "Tahoe State Recreation Area"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1645694444,
+            -120.143661111
+        ],
+        "location": "64 Acres Beach Access"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.238826,
+            -120.048809
+        ],
+        "location": "Agatam Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9423891,
+            -120.06558
+        ],
+        "location": "Baldwin Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.390974,
+            -120.092439
+        ],
+        "location": "Boca Reservoir"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.246374,
+            -119.968292
+        ],
+        "location": "Burnt Cedar Beach (IVGID only)"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9382583333,
+            -120.039183333
+        ],
+        "location": "Camp Richardson Resort"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2261861111,
+            -120.080208333
+        ],
+        "location": "Carnelian Bay (Patton/Watermens Landing)"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2256361111,
+            -120.082897222
+        ],
+        "location": "Carnelian Bay (West)"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.225432,
+            -120.083348
+        ],
+        "location": "Carnelian Bay Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0424,
+            -119.948602778
+        ],
+        "location": "Cave Rock Boat Launch"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9872131,
+            -119.94564
+        ],
+        "location": "Cave Rock State Park"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.072434,
+            -120.141647
+        ],
+        "location": "Chambers Landing Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.16767,
+            -119.926577
+        ],
+        "location": "Chimney Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.169577,
+            -120.14184
+        ],
+        "location": "Commons Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9464417,
+            -119.96696
+        ],
+        "location": "Connolley Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9471055556,
+            -119.966427778
+        ],
+        "location": "Connolly Beach/Beach Retreat & Lodge at Tahoe"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.23461,
+            -120.022695
+        ],
+        "location": "Coon Street Dog Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9407083333,
+            -120.004161111
+        ],
+        "location": "Cove East"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.977767,
+            -120.102992
+        ],
+        "location": "D.L. Bliss State Park"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0003222222,
+            -120.101366667
+        ],
+        "location": "D.L. Bliss State Park (Lester Beach/Campground)"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.324785,
+            -120.264063
+        ],
+        "location": "Donner Lake"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0112805556,
+            -119.947544444
+        ],
+        "location": "Dreyfus Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1507138889,
+            -119.932791667
+        ],
+        "location": "East Shore Beaches"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.8422448,
+            -120.06508
+        ],
+        "location": "Echo Lakes"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0732613,
+            -120.1442
+        ],
+        "location": "Ed Z'berg Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9344978,
+            -119.98438
+        ],
+        "location": "El Dorado Beach & Boat Ramp"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.114415,
+            -120.158078
+        ],
+        "location": "Elizabeth Williams Park"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9596694444,
+            -120.096458333
+        ],
+        "location": "Emerald Bay Boat-in Campground"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.95447,
+            -120.110476
+        ],
+        "location": "Emerald Bay State Park"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9532083333,
+            -120.106488889
+        ],
+        "location": "Emerald Bay State Park Vikingsholm area"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.880757,
+            -120.069272
+        ],
+        "location": "Fallen Leaf Lake"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1041722222,
+            -120.159702778
+        ],
+        "location": "Grand Ave. Lake Access"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.173664,
+            -119.928952
+        ],
+        "location": "Hidden Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0845444444,
+            -120.159580556
+        ],
+        "location": "Homewood Marina"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.121587,
+            -120.161498
+        ],
+        "location": "Hurricane Bay"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.240342,
+            -119.9486541
+        ],
+        "location": "Incline Beach (IVGID only)"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.243489,
+            -119.94273
+        ],
+        "location": "Incline Village Recreation Center"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1129888889,
+            -120.1581
+        ],
+        "location": "Kaspian Beach Picnic Area"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1140166,
+            -120.1611451
+        ],
+        "location": "Kaspian Day Use Area"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.236493,
+            -120.025448
+        ],
+        "location": "Kings Beach State Recreation Area"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2347527778,
+            -120.022388889
+        ],
+        "location": "Kings Beach/Coon Street Boat Ramp"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9395083333,
+            -120.052802778
+        ],
+        "location": "Kiva Beach/Tallac Historic Site"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1753444444,
+            -120.133638889
+        ],
+        "location": "Klausen Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1809361111,
+            -120.115355556
+        ],
+        "location": "Lake Forest Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.181088,
+            -120.115389
+        ],
+        "location": "Lake Forest Beach Park"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1813027778,
+            -120.119588889
+        ],
+        "location": "Lake Forest Boat Ramp/Campground"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9589195,
+            -119.95142
+        ],
+        "location": "Lakeside Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.94435,
+            -119.977297222
+        ],
+        "location": "Lakeview Commons/ Boat Ramp"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.318727,
+            -120.113146
+        ],
+        "location": "Martis Creek Lake"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0361916667,
+            -120.121791667
+        ],
+        "location": "Meeks Bay Beach and Campground"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0374111111,
+            -120.122625
+        ],
+        "location": "Meeks Bay Resort"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.038657,
+            -120.123759
+        ],
+        "location": "Meeks Bay Resort & Marina"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.209462,
+            -119.929721
+        ],
+        "location": "Memorial Point"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2383166667,
+            -120.039925
+        ],
+        "location": "Moon Dunes"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.238296,
+            -120.041194
+        ],
+        "location": "Moon Dunes Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.982225,
+            -119.95586
+        ],
+        "location": "Nevada Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9821888889,
+            -119.953822222
+        ],
+        "location": "Nevada Beach /Campground"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.237192,
+            -120.031704
+        ],
+        "location": "North Tahoe Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0812694444,
+            -120.1579
+        ],
+        "location": "Obexer's Marina (Beach Area)"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.226319,
+            -120.079618
+        ],
+        "location": "Patton Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.226711,
+            -120.079472
+        ],
+        "location": "Patton Landing"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9338341,
+            -120.05147
+        ],
+        "location": "Pope Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.379803,
+            -120.157555
+        ],
+        "location": "Prosser Creek Reservoir"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9436722,
+            -119.98364
+        ],
+        "location": "Regan Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9912987,
+            -119.94046
+        ],
+        "location": "Round Hill Pines Beach Resort"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9899055556,
+            -119.952130556
+        ],
+        "location": "Roundhill Pines Beach/Marina"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2005555556,
+            -119.930052778
+        ],
+        "location": "Sand Harbor"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.198565,
+            -119.928294
+        ],
+        "location": "Sand Harbor Nevada State Park"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.239929,
+            -120.051354
+        ],
+        "location": "Sandy Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.236847,
+            -120.029836
+        ],
+        "location": "Secline Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.147787,
+            -119.933684
+        ],
+        "location": "Secret Harbor"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.199834,
+            -120.240307
+        ],
+        "location": "Shirley Lake"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.326755,
+            -120.265467
+        ],
+        "location": "Shoreline Park"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.240096,
+            -119.945475
+        ],
+        "location": "Ski Beach (IVGID only)"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9496803,
+            -119.95895
+        ],
+        "location": "Ski Run Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.128757,
+            -119.931373
+        ],
+        "location": "Skunk Harbor"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.184175,
+            -120.110191
+        ],
+        "location": "Skylandia Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.223942,
+            -120.008619
+        ],
+        "location": "Speedboat Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.468512,
+            -120.131631
+        ],
+        "location": "Stampede Reservoir"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2364611111,
+            -120.027191667
+        ],
+        "location": "Steamers Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0499555556,
+            -120.113263889
+        ],
+        "location": "Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0555555556,
+            -120.113505556
+        ],
+        "location": "Sugar Pine Point State Park, General Creek Area"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1387277778,
+            -120.153113889
+        ],
+        "location": "Sunnyside Marina (Beach area)"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.174709,
+            -120.136986
+        ],
+        "location": "Tahoe State Recreation Area"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1738388889,
+            -120.135136111
+        ],
+        "location": "Tahoe State Recreation Area / Campground"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.2390388889,
+            -120.048141667
+        ],
+        "location": "Tahoe Vista Recreation Area"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1663166667,
+            -120.143441667
+        ],
+        "location": "Truckee River Outlet / Gatekeeper's Museum"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            38.9327361111,
+            -120.000525
+        ],
+        "location": "Upper Truckee River Access"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.318432,
+            -120.289603
+        ],
+        "location": "West End Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.139856,
+            -120.154005
+        ],
+        "location": "William Kent Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.1396722222,
+            -120.153936111
+        ],
+        "location": "William Kent Beach (Campground)"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0093689,
+            -119.94726
+        ],
+        "location": "Zephyr Cove Beach"
+    },
+    {
+        "activity": "Swimming",
+        "activity_group": "On the Water",
+        "coords": [
+            39.0078972222,
+            -119.948005556
+        ],
+        "location": "Zephyr Cove Resort"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.164627,
+            -120.147321
+        ],
+        "location": "64-Acres Park"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.903548,
+            -120.038226
+        ],
+        "location": "Angora Lake"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.78872,
+            -120.000788
+        ],
+        "location": "Big Meadow Area / Tahoe Rim Trail"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.928962,
+            -119.966236
+        ],
+        "location": "Bijou Bike Park"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1127862,
+            -120.1621247
+        ],
+        "location": "Blackwood Canyon / Barker Pass Rd."
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.390974,
+            -120.09244
+        ],
+        "location": "Boca Reservoir"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.18672,
+            -120.125084
+        ],
+        "location": "Burton Creek State Park"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.288399,
+            -120.21343
+        ],
+        "location": "Cabin Creek Trail"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.318892,
+            -120.231228
+        ],
+        "location": "Coldstream Canyon"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.881236,
+            -119.977578
+        ],
+        "location": "Coral Loop"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.977767,
+            -120.102988
+        ],
+        "location": "D.L. Bliss State Park"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.333203,
+            -120.290813
+        ],
+        "location": "Donner Lake Rim Trail"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.324565,
+            -120.232812
+        ],
+        "location": "Donner Memorial State Park"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.835312,
+            -120.044219
+        ],
+        "location": "Echo Lakes"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0732613,
+            -120.1438
+        ],
+        "location": "Ed Z'berg Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9344978,
+            -119.98439
+        ],
+        "location": "El Dorado Beach & Boat Ramp"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9338341,
+            -120.0515
+        ],
+        "location": "Emerald Bay Beach/Eagle Creek Beach"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.95447,
+            -120.110472
+        ],
+        "location": "Emerald Bay State Park"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.375678,
+            -120.181032
+        ],
+        "location": "Emigrant Trail"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.923429,
+            -120.026649
+        ],
+        "location": "Fallen Leaf Lake"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.234275,
+            -119.929941
+        ],
+        "location": "Flume Trail"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.962161,
+            -119.885258
+        ],
+        "location": "Heavenly / Tahoe Rim Trail"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.084897,
+            -120.160184
+        ],
+        "location": "Homewood"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.6845894,
+            -120.06538
+        ],
+        "location": "Kirkwood Mountain Bike Park"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9332428,
+            -119.98434
+        ],
+        "location": "Lake Shore Blvd"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9332428,
+            -119.98434
+        ],
+        "location": "Lake Tahoe Bicycle Coalition"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.30325,
+            -120.131377
+        ],
+        "location": "Martis Creek Wildlife Area"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.267388,
+            -120.074356
+        ],
+        "location": "Martis Peak"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.062128,
+            -120.146832
+        ],
+        "location": "McKinney-Rubicon Springs Rd."
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.27694,
+            -120.121155
+        ],
+        "location": "Northstar"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.204632,
+            -120.199831
+        ],
+        "location": "Olympic Valley"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.146311,
+            -120.173268
+        ],
+        "location": "Paige Meadows"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.923944,
+            -120.026732
+        ],
+        "location": "Pope-Bladwin Bike Path"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.379803,
+            -120.157549
+        ],
+        "location": "Prosser Creek Reservoir"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.327907,
+            -120.15171
+        ],
+        "location": "River View Sport Park"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.309143,
+            -120.193743
+        ],
+        "location": "Sawtooth"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.945925,
+            -119.970511
+        ],
+        "location": "South Lake Tahoe Bike Path"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.93787,
+            -119.97533
+        ],
+        "location": "South Lake Tahoe BMX Bike Track"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.10447,
+            -119.897296
+        ],
+        "location": "Spooner Lake State Park Mountain Biking Experience"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.468512,
+            -120.131628
+        ],
+        "location": "Stampede Reservoir"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.110928,
+            -120.189903
+        ],
+        "location": "Stanford Rock"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.197149,
+            -120.106363
+        ],
+        "location": "Tahoe Cross Country"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.363248,
+            -120.253381
+        ],
+        "location": "Tahoe Donner Cross Country Ski Area"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.307405,
+            -119.907967
+        ],
+        "location": "Tahoe Meadows"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.103487,
+            -119.895404
+        ],
+        "location": "Tahoe Rim Trail"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.174709,
+            -120.136984
+        ],
+        "location": "Tahoe State Recreation Area"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.327339,
+            -120.176473
+        ],
+        "location": "Truckee Legacy Trail"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.169649,
+            -120.142003
+        ],
+        "location": "Truckee River Bike Trail"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.234275,
+            -119.929942
+        ],
+        "location": "Tunnel Creek"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9548149,
+            -119.94108
+        ],
+        "location": "Van Sickle Bi-State Park"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.251025,
+            -119.970048
+        ],
+        "location": "Village Blvd"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.132973,
+            -120.157365
+        ],
+        "location": "Ward Creek / Stanford Rock"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.865718,
+            -120.022439
+        ],
+        "location": "Washoe Meadows State Park"
+    },
+    {
+        "activity": "Biking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.196638,
+            -120.198412
+        ],
+        "location": "Western States Trail"
+    },
+    {
+        "activity": "Birdwatching",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.977767,
+            -120.10299
+        ],
+        "location": "D.L. Bliss State Park"
+    },
+    {
+        "activity": "Birdwatching",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0732613,
+            -120.1439
+        ],
+        "location": "Ed Z'berg Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Birdwatching",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.95447,
+            -120.110474
+        ],
+        "location": "Emerald Bay State Park"
+    },
+    {
+        "activity": "birdwatching",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.30325,
+            -120.131376
+        ],
+        "location": "Martis Creek Wildlife Area"
+    },
+    {
+        "activity": "birdwatching",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.267388,
+            -120.074355
+        ],
+        "location": "Martis Peak"
+    },
+    {
+        "activity": "Birdwatching",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.998633,
+            -120.097188
+        ],
+        "location": "Rubicon Trail"
+    },
+    {
+        "activity": "Birdwatching",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.10447,
+            -119.897296
+        ],
+        "location": "Spooner Lake"
+    },
+    {
+        "activity": "Birdwatching",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.103487,
+            -119.895404
+        ],
+        "location": "Tahoe Rim Trail"
+    },
+    {
+        "activity": "birdwatching",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.865718,
+            -120.022439
+        ],
+        "location": "Washoe Meadows State Park"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9338341,
+            -120.05147
+        ],
+        "location": "Bayview Campground at Emerald Bay"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.393611,
+            -120.105593
+        ],
+        "location": "Boca Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.419003,
+            -120.087296
+        ],
+        "location": "Boca Rest Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.437384,
+            -120.091602
+        ],
+        "location": "Boyington Mill Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.934489,
+            -120.040979
+        ],
+        "location": "Camp Richardson Resort"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9332428,
+            -119.98434
+        ],
+        "location": "Camp Shelly"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9412079,
+            -119.97283
+        ],
+        "location": "Campground By The Lake"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.31962,
+            -120.232696
+        ],
+        "location": "Creek Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.977767,
+            -120.102991
+        ],
+        "location": "D.L. Bliss State Park"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0003222222,
+            -120.101366667
+        ],
+        "location": "D.L. Bliss State Park (Lester Beach/Campground)"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.324565,
+            -120.232813
+        ],
+        "location": "Donner Memorial State Park"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9620654,
+            -120.0789
+        ],
+        "location": "Eagle Point Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0732613,
+            -120.144
+        ],
+        "location": "Ed Z'berg Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9596694444,
+            -120.096458333
+        ],
+        "location": "Emerald Bay Boat-in Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9289665,
+            -120.04782
+        ],
+        "location": "Fallen Leaf Lake Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.259238,
+            -120.209567
+        ],
+        "location": "Goose Meadows Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.299012,
+            -120.204656
+        ],
+        "location": "Granite Flat"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1127862,
+            -120.1621247
+        ],
+        "location": "Kaspian Recreation Area & Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.847863,
+            -120.02822
+        ],
+        "location": "KOA of South Lake Tahoe"
+    },
+    {
+        "activity": "Public Pier",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1813027778,
+            -120.119588889
+        ],
+        "location": "Lake Forest Boat Ramp"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.184384,
+            -120.120425
+        ],
+        "location": "Lake Forest Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.799669,
+            -120.140246
+        ],
+        "location": "Lover's Leap"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.32274,
+            -120.11756
+        ],
+        "location": "Martis Creek Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0361916667,
+            -120.121791667
+        ],
+        "location": "Meeks Bay Beach and Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.038657,
+            -120.123753
+        ],
+        "location": "Meeks Bay Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.038657,
+            -120.123755
+        ],
+        "location": "Meeks Bay Resort & Marina"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.311801,
+            -119.897198
+        ],
+        "location": "Mount Rose Summit"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9817,
+            -119.9523
+        ],
+        "location": "Nevada Beach Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.3787996,
+            -120.1573874
+        ],
+        "location": "Prosser Ranch Group Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.434184,
+            -120.257549
+        ],
+        "location": "Sagehen Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.240205,
+            -120.050971
+        ],
+        "location": "Sandy Beach Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.10447,
+            -119.897296
+        ],
+        "location": "Spooner Lake"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.468512,
+            -120.131626
+        ],
+        "location": "Stampede Reservoir"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1753068889,
+            120.135506306
+        ],
+        "location": "Tahoe State Recreation Area/Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9085007,
+            -119.99798
+        ],
+        "location": "Tahoe Valley Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1396722222,
+            -120.153936111
+        ],
+        "location": "William Kent Beach (Campground)"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.139856,
+            -120.154006
+        ],
+        "location": "William Kent Campground"
+    },
+    {
+        "activity": "Camping",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0093689,
+            -119.94721
+        ],
+        "location": "Zephyr Cove RV Park & Campground"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.870907,
+            -120.063035
+        ],
+        "location": "Angora Lake"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9209323,
+            -120.12465
+        ],
+        "location": "Azure Lake"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9399605,
+            -119.97315
+        ],
+        "location": "Bijou Cross-Country"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1127862,
+            -120.1621247
+        ],
+        "location": "Blackwood Canyon / Barker Pass Rd."
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.258439,
+            -120.064869
+        ],
+        "location": "Brockway Summit"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.18672,
+            -120.125083
+        ],
+        "location": "Burton Creek State Park"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.288399,
+            -120.21343
+        ],
+        "location": "Cabin Creek Trail"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9340744,
+            -120.04015
+        ],
+        "location": "Camp Richardson Corral"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9489662,
+            -120.08176
+        ],
+        "location": "Cascade Creek Falls Trail"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.324565,
+            -120.232812
+        ],
+        "location": "Donner Memorial State Park"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9518522,
+            -120.1113
+        ],
+        "location": "Eagle Falls"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.835312,
+            -120.044219
+        ],
+        "location": "Echo Lakes"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0732613,
+            -120.1437
+        ],
+        "location": "Ed Z'berg Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.878614,
+            -120.074244
+        ],
+        "location": "Fallen Leaf Lake"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.921422,
+            -120.068176
+        ],
+        "location": "Floating Is./Cathedral"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.234275,
+            -119.929941
+        ],
+        "location": "Flume Trail"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9375183,
+            -120.11021
+        ],
+        "location": "Granite Lake"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.871205,
+            -120.00714
+        ],
+        "location": "Lake Valley State Recreation Area"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.035245,
+            -120.125418
+        ],
+        "location": "Meeks Meadow"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.925844,
+            -119.971514
+        ],
+        "location": "Nordic Ski Center at the Lake Tahoe Community College"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.275067,
+            -120.120751
+        ],
+        "location": "Northstar at Tahoe Cross Country"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.146311,
+            -120.173268
+        ],
+        "location": "Paige Meadows"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.340797,
+            -120.347568
+        ],
+        "location": "Peter Grub Hut/ Castle Peak"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.236099,
+            -120.207027
+        ],
+        "location": "Pole Creek Trail System"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.313643,
+            -120.388902
+        ],
+        "location": "Royal Gorge Cross Country Resort"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.998633,
+            -120.097188
+        ],
+        "location": "Rubicon Trail"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.44609,
+            -120.214933
+        ],
+        "location": "Sagehen Summit"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.762621,
+            -119.955701
+        ],
+        "location": "Scott Lake"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.199195,
+            -120.217826
+        ],
+        "location": "Squaw Creek Cross Country"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.110928,
+            -120.189903
+        ],
+        "location": "Stanford Rock"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.169266,
+            -120.145754
+        ],
+        "location": "Tahoe City Golf Course"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.197149,
+            -120.106363
+        ],
+        "location": "Tahoe Cross Country"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.363248,
+            -120.253381
+        ],
+        "location": "Tahoe Donner Cross Country Ski Area"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.307405,
+            -119.907968
+        ],
+        "location": "Tahoe Meadows"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.936557,
+            -120.054916
+        ],
+        "location": "Tallac Historic Site"
+    },
+    {
+        "activity": "Cross-country Skiing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.932298,
+            -120.057677
+        ],
+        "location": "Taylor Creek"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9422836,
+            -119.96452
+        ],
+        "location": "Bijou Municipal Golf Course"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.333474,
+            -120.211719
+        ],
+        "location": "Coyote Moon Golf Course"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9644775,
+            -119.94254
+        ],
+        "location": "Edgewood Tahoe Golf Course"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0143967,
+            -119.83486
+        ],
+        "location": "Genoa Lakes Golf Resort"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.349653,
+            -120.166268
+        ],
+        "location": "Gray's Crossing"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.25342,
+            -119.944174
+        ],
+        "location": "Incline Village Championship Golf Course"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.267909,
+            -119.952967
+        ],
+        "location": "Incline Village Mountain Golf Course"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.235494,
+            -120.01988
+        ],
+        "location": "Kings Beach Mini Golf"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.295997,
+            -120.151618
+        ],
+        "location": "Lahontan Golf Club"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.871205,
+            -120.00714
+        ],
+        "location": "Lake Valley State Recreation Area"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.199171,
+            -120.217752
+        ],
+        "location": "Links at Squaw Creek Golf Course"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.463432,
+            -119.783212
+        ],
+        "location": "Magic Carpet Mini Golf"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.29316,
+            -120.116625
+        ],
+        "location": "Northstar California Golf Course"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.239097,
+            -120.032431
+        ],
+        "location": "Old Brockway Golf Course"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.344095,
+            -120.142673
+        ],
+        "location": "Old Greenwood Golf Club"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.324173,
+            -120.168037
+        ],
+        "location": "Ponderosa Golf Course"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.195907,
+            -120.236047
+        ],
+        "location": "Squaw Valley Mini Golf"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.169266,
+            -120.145754
+        ],
+        "location": "Tahoe City Golf Course"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.352271,
+            -120.233262
+        ],
+        "location": "Tahoe Donner Golf Course"
+    },
+    {
+        "activity": "Golfing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.8544159,
+            -120.00987
+        ],
+        "location": "Tahoe Paradise Golf Course"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.164627,
+            -120.147321
+        ],
+        "location": "64-Acres Park"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.165104,
+            -120.23874
+        ],
+        "location": "Alpine Meadows"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.870907,
+            -120.063035
+        ],
+        "location": "Angora Lake"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.856415,
+            -119.940395
+        ],
+        "location": "Armstrong Pass"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9209323,
+            -120.12465
+        ],
+        "location": "Azure Lake"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9493122,
+            -120.07871
+        ],
+        "location": "Bayview Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.78872,
+            -120.000788
+        ],
+        "location": "Big Meadow Area / Tahoe Rim Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1127862,
+            -120.1621247
+        ],
+        "location": "Blackwood Canyon / Barker Pass Rd."
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.390974,
+            -120.092439
+        ],
+        "location": "Boca Reservoir"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.258439,
+            -120.064869
+        ],
+        "location": "Brockway Summit"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.18672,
+            -120.125083
+        ],
+        "location": "Burton Creek State Park"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.693899,
+            -119.988348
+        ],
+        "location": "Carson Pass"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9489662,
+            -120.08176
+        ],
+        "location": "Cascade Creek Falls Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.16767,
+            -119.926577
+        ],
+        "location": "Chimney Beach"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.318892,
+            -120.231227
+        ],
+        "location": "Coldstream Canyon"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.977767,
+            -120.102987
+        ],
+        "location": "D.L. Bliss State Park"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9332428,
+            -119.98434
+        ],
+        "location": "Desolation Wilderness"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.333203,
+            -120.290813
+        ],
+        "location": "Donner Lake Rim Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.324565,
+            -120.232811
+        ],
+        "location": "Donner Memorial State Park"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9518522,
+            -120.1113
+        ],
+        "location": "Eagle Falls"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.107978,
+            -120.161354
+        ],
+        "location": "Eagle Rock"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.835312,
+            -120.044219
+        ],
+        "location": "Echo Lakes"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0732613,
+            -120.1437
+        ],
+        "location": "Ed Z'berg Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9344978,
+            -119.9844
+        ],
+        "location": "El Dorado Beach & Boat Ramp"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1127862,
+            -120.1621247
+        ],
+        "location": "Ellis Peak Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.95447,
+            -120.110471
+        ],
+        "location": "Emerald Bay State Park"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.375678,
+            -120.181031
+        ],
+        "location": "Emigrant Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.878614,
+            -120.074244
+        ],
+        "location": "Fallen Leaf Lake"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.179305,
+            -120.229657
+        ],
+        "location": "Five Lakes"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.921422,
+            -120.068176
+        ],
+        "location": "Floating Is./Cathedral"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.234275,
+            -119.929941
+        ],
+        "location": "Flume Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.339483,
+            -120.343074
+        ],
+        "location": "Glacier Meadows Loop"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.877115,
+            -120.08041
+        ],
+        "location": "Glen Alpine Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9375183,
+            -120.11021
+        ],
+        "location": "Granite Lake"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9359436,
+            -119.93967
+        ],
+        "location": "Heavenly Mountain Resort"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.084897,
+            -120.160184
+        ],
+        "location": "Homewood"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.83056,
+            -120.12335
+        ],
+        "location": "Horsetail Falls"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.6847839,
+            -120.06557
+        ],
+        "location": "Kirkwood Mountain"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.706445,
+            -120.088322
+        ],
+        "location": "Lake Margaret"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9624062,
+            -119.9399
+        ],
+        "location": "Lam Watah Nature Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9315744,
+            -120.1138
+        ],
+        "location": "Maggie's Peaks"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1076033,
+            -119.909
+        ],
+        "location": "Marlette Lake"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.30325,
+            -120.131375
+        ],
+        "location": "Martis Creek Wildlife Area"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.267388,
+            -120.074354
+        ],
+        "location": "Martis Peak"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.062128,
+            -120.146832
+        ],
+        "location": "McKinney-Rubicon Springs Rd."
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.03727,
+            -120.12493
+        ],
+        "location": "Meek's Bay Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.8829632,
+            -120.07268
+        ],
+        "location": "Moraine Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.314443,
+            -120.326905
+        ],
+        "location": "Mount Judah Loop/ Pacific Crest Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.313184,
+            -119.897376
+        ],
+        "location": "Mount Rose"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.921422,
+            -120.068176
+        ],
+        "location": "Mount Tallac"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0765094,
+            -120.2352307
+        ],
+        "location": "Pacific Crest Trail/ Barker Pass Tahoe Rim Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.146311,
+            -120.173268
+        ],
+        "location": "Paige Meadows"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.340797,
+            -120.347568
+        ],
+        "location": "Peter Grub Hut/ Castle Peak"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.258395,
+            -120.064759
+        ],
+        "location": "Picnic Rock"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.236099,
+            -120.207027
+        ],
+        "location": "Pole Creek Trail System"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.379803,
+            -120.15755
+        ],
+        "location": "Prosser Creek Reservoir"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.808591,
+            -120.135868
+        ],
+        "location": "Pyrimid Peak"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.802958,
+            -120.116236
+        ],
+        "location": "Ralston Peak"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.695218,
+            -119.989553
+        ],
+        "location": "Red Lake Peak"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.998633,
+            -120.097188
+        ],
+        "location": "Rubicon Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.434162,
+            -120.204845
+        ],
+        "location": "Sagehen Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.263979,
+            -120.125637
+        ],
+        "location": "Sawmill Lake"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.762621,
+            -119.955701
+        ],
+        "location": "Scott Lake"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.147787,
+            -119.933681
+        ],
+        "location": "Secret Harbor"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.199834,
+            -120.240308
+        ],
+        "location": "Shirley Lake Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.128757,
+            -119.93137
+        ],
+        "location": "Skunk Harbor"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.799669,
+            -120.140246
+        ],
+        "location": "Slippery Ford Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.10447,
+            -119.897296
+        ],
+        "location": "Spooner Lake"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.197295,
+            -120.234511
+        ],
+        "location": "Squaw and Emigrant Peaks"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.468512,
+            -120.131627
+        ],
+        "location": "Stampede Reservoir"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.110928,
+            -120.189903
+        ],
+        "location": "Stanford Rock"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.2374381,
+            -120.0061697
+        ],
+        "location": "Stateline Fire Lookout"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.197149,
+            -120.106363
+        ],
+        "location": "Tahoe Cross Country"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.307405,
+            -119.907969
+        ],
+        "location": "Tahoe Meadows"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.2417488,
+            -119.95093
+        ],
+        "location": "Tahoe Rim Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.935713,
+            -120.056033
+        ],
+        "location": "Taylor Creek Visitor Center and Stream Profile Chamber"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.951898,
+            -120.113241
+        ],
+        "location": "The Velmas"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.327339,
+            -120.176474
+        ],
+        "location": "Truckee Legacy Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.169649,
+            -120.142003
+        ],
+        "location": "Truckee River Bike Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.234275,
+            -119.929941
+        ],
+        "location": "Tunnel Creek"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9355965,
+            -120.04354
+        ],
+        "location": "Valhalla at Lake Tahoe"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9548149,
+            -119.94107
+        ],
+        "location": "Van Sickle Bi-State Park"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.865718,
+            -120.022439
+        ],
+        "location": "Washoe Meadows State Park"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.789215,
+            -119.948144
+        ],
+        "location": "Waterhouse Peak"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.196638,
+            -120.198412
+        ],
+        "location": "Western States Trail"
+    },
+    {
+        "activity": "Horseback riding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.184289,
+            -120.208537
+        ],
+        "location": "Alpine Meadows Stables"
+    },
+    {
+        "activity": "Horseback riding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.390974,
+            -120.092441
+        ],
+        "location": "Boca Reservoir"
+    },
+    {
+        "activity": "Horseback riding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9340744,
+            -120.04015
+        ],
+        "location": "Camp Richardson Corral"
+    },
+    {
+        "activity": "Horseback riding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.835312,
+            -120.044219
+        ],
+        "location": "Echo Lakes"
+    },
+    {
+        "activity": "Horseback riding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.878614,
+            -120.074243
+        ],
+        "location": "Fallen Leaf Lake"
+    },
+    {
+        "activity": "Horseback riding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.281539,
+            -120.118662
+        ],
+        "location": "Northstar California Stables"
+    },
+    {
+        "activity": "Horseback riding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.363655,
+            -120.253458
+        ],
+        "location": "Tahoe Donner Equestrian Center"
+    },
+    {
+        "activity": "Horseback riding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.103487,
+            -119.895404
+        ],
+        "location": "Tahoe Rim Trail"
+    },
+    {
+        "activity": "Horseback riding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9548149,
+            -119.94109
+        ],
+        "location": "Van Sickle Bi-State Park"
+    },
+    {
+        "activity": "Horseback riding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0088959,
+            -119.94384
+        ],
+        "location": "Zephyr Cove Stables"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.977767,
+            -120.102989
+        ],
+        "location": "D.L. Bliss State Park"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.323884,
+            -120.232768
+        ],
+        "location": "Donner Memorial State Park & Emigrant Trail Museum"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0732613,
+            -120.1441
+        ],
+        "location": "Ed Z'berg Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.052938,
+            -120.114061
+        ],
+        "location": "Ehrman Mansion"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.95447,
+            -120.110473
+        ],
+        "location": "Emerald Bay State Park"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.957676,
+            -119.942151
+        ],
+        "location": "Explore Lake Tahoe- An Urban Trailhead"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.362849,
+            -119.851937
+        ],
+        "location": "Galena Creek Visitor Center"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.166874,
+            -120.143434
+        ],
+        "location": "Gatekeeper's Museum"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.259161,
+            -119.978897
+        ],
+        "location": "Incline Village & Crystal Bay Historical Society"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.324845,
+            -120.213966
+        ],
+        "location": "Kidzone Museum"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.92792,
+            -119.972979
+        ],
+        "location": "Lake Tahoe Community College Demonstration Garden"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.939933,
+            -119.976766
+        ],
+        "location": "Lake Tahoe Historical Society Museum"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.926412,
+            -119.983912
+        ],
+        "location": "League to Save Lake Tahoe"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.166475,
+            -120.143611
+        ],
+        "location": "Marion Steinbach Indian Basket"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.172566,
+            -120.137052
+        ],
+        "location": "Museum of Sierra Ski History and 1960 Winter Olympics"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.243169,
+            -119.940511
+        ],
+        "location": "North Lake Tahoe Demonstration Garden"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.198217,
+            -119.931228
+        ],
+        "location": "Sand Harbor Visitor Center"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.159821,
+            -120.14614
+        ],
+        "location": "Tahoe Maritime Museum"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.936557,
+            -120.054916
+        ],
+        "location": "Tallac Historic Site"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.935713,
+            -120.056033
+        ],
+        "location": "Taylor Creek Visitor Center and Stream Profile Chamber"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.174423,
+            -119.931994
+        ],
+        "location": "Thunderbird Lodge Preservation Society"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.327869,
+            -120.186998
+        ],
+        "location": "Truckee Donner Historical Society - Old Jail Museum"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.327424,
+            -120.186148
+        ],
+        "location": "Truckee Railroad Museum"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.184407,
+            -120.121857
+        ],
+        "location": "UC Davis Eriksson Education Center & Historic Fish Hatchery"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.2427402,
+            -119.9396324
+        ],
+        "location": "UC Davis Tahoe Science Center"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.952234,
+            -120.106905
+        ],
+        "location": "Vikingsholm"
+    },
+    {
+        "activity": "Museums/Cultural",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.171324,
+            -120.140222
+        ],
+        "location": "Watson Cabin"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.2409855,
+            -119.9444226
+        ],
+        "location": "Aspen Grove"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9315376,
+            -119.96902
+        ],
+        "location": "Bijou Community Park"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.169577,
+            -120.14184
+        ],
+        "location": "Commons Beach"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9555206,
+            -119.94312
+        ],
+        "location": "Heavenly Mountain Resort Ropes Challenge Courses"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.171525,
+            -120.139843
+        ],
+        "location": "Heritage Plaza"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9701881,
+            -119.93273
+        ],
+        "location": "Kahle Community Center & Park"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.134335,
+            -120.157087
+        ],
+        "location": "Kilner Park"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.236772,
+            -120.02478
+        ],
+        "location": "Kings Beach Plaza"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.067142,
+            -120.129425
+        ],
+        "location": "Marie Sluchak Community Park"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.246172,
+            -120.052535
+        ],
+        "location": "North Tahoe Regional Park"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.182719,
+            -120.120457
+        ],
+        "location": "Pomin Park"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.251863,
+            -119.969039
+        ],
+        "location": "Preston Field Park"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.327747,
+            -120.15404
+        ],
+        "location": "River View Sports Park"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.184175,
+            -120.110191
+        ],
+        "location": "Skylandia Park"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.204369,
+            -120.2030559
+        ],
+        "location": "Squaw Valley Park"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.172268,
+            -120.140784
+        ],
+        "location": "Tahoe City Dog Park"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.239242,
+            -120.048502
+        ],
+        "location": "Tahoe Vista Recreation Area"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9332428,
+            -119.98434
+        ],
+        "location": "Tallac Picnic Area"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.326478,
+            -120.176044
+        ],
+        "location": "Truckee River Regional Park"
+    },
+    {
+        "activity": "Park/Playground",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.318432,
+            -120.289602
+        ],
+        "location": "West End Beach"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9518522,
+            -120.1113
+        ],
+        "location": "90 Foot Wall"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.295416,
+            -120.197118
+        ],
+        "location": "Big Chief"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.989014,
+            -119.898985
+        ],
+        "location": "Castle Rock"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.044146,
+            -119.94891
+        ],
+        "location": "Cave Rock"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.978082,
+            -120.102795
+        ],
+        "location": "D.L. Bliss State Park"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.317032,
+            -120.319537
+        ],
+        "location": "Donner Summit"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.835312,
+            -120.044219
+        ],
+        "location": "Echo Lakes"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.883656,
+            -120.024676
+        ],
+        "location": "Echo View Estates"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.107978,
+            -120.161354
+        ],
+        "location": "Eagle Rock"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.799669,
+            -120.140246
+        ],
+        "location": "Lover's Leap"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9518522,
+            -120.1113
+        ],
+        "location": "Mayhem Cover"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.790161,
+            -120.241622
+        ],
+        "location": "Phantom Spires"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.875379,
+            -120.008885
+        ],
+        "location": "Pie Shop"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.103621,
+            -119.895755
+        ],
+        "location": "Spooner Crag"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.77289,
+            -120.311899
+        ],
+        "location": "Sugarloaf"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.268895,
+            -119.936226
+        ],
+        "location": "Trippy Rock"
+    },
+    {
+        "activity": "Rock Climbing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.164553,
+            -120.16034
+        ],
+        "location": "Twin Crags"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.168996,
+            -120.238563
+        ],
+        "location": "Alpine Meadows"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.338071,
+            -120.349204
+        ],
+        "location": "Boreal"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.253598,
+            -119.92476
+        ],
+        "location": "Diamond Peak"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.318167,
+            -120.330143
+        ],
+        "location": "Donner Ski Ranch"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.157013,
+            -120.153222
+        ],
+        "location": "Granlibakken"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9359436,
+            -119.93967
+        ],
+        "location": "Heavenly Mountain Resort"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.08575,
+            -120.16055
+        ],
+        "location": "Homewood Mountain Resort"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.7219009,
+            -119.83523
+        ],
+        "location": "Hope Valley Outdoors Cross-Country Ski Center"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.6847839,
+            -120.06557
+        ],
+        "location": "Kirkwood Mountain Resort"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.329613,
+            -119.886738
+        ],
+        "location": "Mount Rose"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.27694,
+            -120.121154
+        ],
+        "location": "Northstar"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.8097305,
+            -120.08114
+        ],
+        "location": "Sierra-at-Tahoe Resort"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.321228,
+            -120.378972
+        ],
+        "location": "Soda Springs Resort"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.197295,
+            -120.234511
+        ],
+        "location": "Squaw Valley USA"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.305627,
+            -120.333051
+        ],
+        "location": "Sugar Bowl"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.35418,
+            -120.25939
+        ],
+        "location": "Tahoe Donner Downhill Ski Area"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9343486,
+            -120.06512
+        ],
+        "location": "Taylor Creek Sno-Parks"
+    },
+    {
+        "activity": "Skiing & Snowboarding",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.789215,
+            -119.948145
+        ],
+        "location": "Waterhouse Peak"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1127862,
+            -120.1621247
+        ],
+        "location": "Blackwood Canyon Sno-park"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.339634,
+            -120.343168
+        ],
+        "location": "Donner Summit Snopark"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.155216,
+            -120.154323
+        ],
+        "location": "Granlibakken"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9555206,
+            -119.94312
+        ],
+        "location": "Heavenly Tubing Hill (summer and winter!)"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.2535662,
+            -119.9459302
+        ],
+        "location": "Incline Village Snow Play Area"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.313427,
+            -119.89741
+        ],
+        "location": "Mount Rose Summit"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.247111,
+            -120.055136
+        ],
+        "location": "North Tahoe Regional Park"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.321654,
+            -120.380716
+        ],
+        "location": "Soda Springs Resort"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.10447,
+            -119.897295
+        ],
+        "location": "Spooner Lake"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.19567,
+            -120.230769
+        ],
+        "location": "Squaw Valley"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.169266,
+            -120.145754
+        ],
+        "location": "Tahoe City Golf Course"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.3513385,
+            -120.2320119
+        ],
+        "location": "Tahoe Donner Trout Creek Recreation Center"
+    },
+    {
+        "activity": "Sledding & Tubing",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.932298,
+            -120.057677
+        ],
+        "location": "Taylor Creek Sno-Park"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.903548,
+            -120.038226
+        ],
+        "location": "Angora Lake"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9209323,
+            -120.12465
+        ],
+        "location": "Azure Lake"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9399605,
+            -119.97315
+        ],
+        "location": "Bijou Cross-Country"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1127862,
+            -120.1621247
+        ],
+        "location": "Blackwood Canyon / Barker Pass Rd."
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.258439,
+            -120.064869
+        ],
+        "location": "Brockway Summit"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.18672,
+            -120.125083
+        ],
+        "location": "Burton Creek State Park"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.288399,
+            -120.21343
+        ],
+        "location": "Cabin Creek Trail"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9489662,
+            -120.08176
+        ],
+        "location": "Cascade Creek Falls Trail"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.324565,
+            -120.232812
+        ],
+        "location": "Donner Memorial State Park"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9518522,
+            -120.1113
+        ],
+        "location": "Eagle Falls"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0732613,
+            -120.1437
+        ],
+        "location": "Ed Z'berg Sugar Pine Point State Park"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.921422,
+            -120.068176
+        ],
+        "location": "Floating Is./Cathedral"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.234275,
+            -119.929941
+        ],
+        "location": "Flume Trail"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9375183,
+            -120.11021
+        ],
+        "location": "Granite Lake"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9359436,
+            -119.93967
+        ],
+        "location": "Heavenly Mountain Resort"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.871205,
+            -120.00714
+        ],
+        "location": "Lake Valley State Recreation Area"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.035245,
+            -120.125418
+        ],
+        "location": "Meeks Meadow"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.925844,
+            -119.971514
+        ],
+        "location": "Nordic Ski Center at the Lake Tahoe Community College"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.275067,
+            -120.120751
+        ],
+        "location": "Northstar at Tahoe Cross Country"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.146311,
+            -120.173268
+        ],
+        "location": "Paige Meadows"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.340797,
+            -120.347568
+        ],
+        "location": "Peter Grub Hut/ Castle Peak"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.236099,
+            -120.207027
+        ],
+        "location": "Pole Creek Trail System"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.313643,
+            -120.388902
+        ],
+        "location": "Royal Gorge Cross Country Resort"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.998633,
+            -120.097188
+        ],
+        "location": "Rubicon Trail"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.44609,
+            -120.214933
+        ],
+        "location": "Sagehen Summit"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.10447,
+            -119.897296
+        ],
+        "location": "Spooner Lake"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.199195,
+            -120.217826
+        ],
+        "location": "Squaw Creek Cross Country"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.110928,
+            -120.189903
+        ],
+        "location": "Stanford Rock"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.169266,
+            -120.145755
+        ],
+        "location": "Tahoe City Golf Course"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.197149,
+            -120.106363
+        ],
+        "location": "Tahoe Cross Country"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.363248,
+            -120.253381
+        ],
+        "location": "Tahoe Donner Cross Country Ski Area"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.307405,
+            -119.90797
+        ],
+        "location": "Tahoe Meadows"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.932298,
+            -120.057677
+        ],
+        "location": "Taylor Creek"
+    },
+    {
+        "activity": "Snowshoeing & Snowplay",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.789215,
+            -119.948146
+        ],
+        "location": "Waterhouse Peak"
+    },
+    {
+        "activity": "Boat Inspection",
+        "activity_group": "For On The Water (but actually not on the lake)",
+        "coords": [
+            39.187206,
+            -120.199143
+        ],
+        "location": "Alpine Meadows Boat Inspection Station"
+    },
+    {
+        "activity": "Boat Inspection",
+        "activity_group": "For On The Water (but actually not on the lake)",
+        "coords": [
+            39.084886,
+            -120.160434
+        ],
+        "location": "Homewood Boat Inspection Station"
+    },
+    {
+        "activity": "Boat Inspection",
+        "activity_group": "For On The Water (but actually not on the lake)",
+        "coords": [
+            38.849806,
+            -120.019858
+        ],
+        "location": "Meyers Boat Inspection Station"
+    },
+    {
+        "activity": "Boat Inspection",
+        "activity_group": "For On The Water (but actually not on the lake)",
+        "coords": [
+            39.100022,
+            -119.90969
+        ],
+        "location": "Spooner Summit Boat Inspection Station"
+    },
+    {
+        "activity": "Boat Inspection",
+        "activity_group": "For On The Water (but actually not on the lake)",
+        "coords": [
+            39.320492,
+            -120.148867
+        ],
+        "location": "Truckee-Tahoe Inspection Station"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.0768055556,
+            -120.235333333
+        ],
+        "location": "Barker Pass Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.79075,
+            -119.999777778
+        ],
+        "location": "Big Meadow East Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.7868055556,
+            -120.001805556
+        ],
+        "location": "Big Meadow West Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.2590277778,
+            -120.063638889
+        ],
+        "location": "Brockway Summit East Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.2583611111,
+            -120.064888889
+        ],
+        "location": "Brockway Summit West Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.8354444444,
+            -120.044583333
+        ],
+        "location": "Echo Lakes Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.8141111111,
+            -120.034305556
+        ],
+        "location": "Echo Summit South Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.7966944444,
+            -119.974583333
+        ],
+        "location": "Grass Lake Spur Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9965,
+            -119.896722222
+        ],
+        "location": "Kingsbury North Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9605,
+            -119.886194444
+        ],
+        "location": "Kingsbury South Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.3132222222,
+            -119.897444444
+        ],
+        "location": "Mt. Rose Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9332428,
+            -119.98434
+        ],
+        "location": "Pacific Crest Trail"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1043611111,
+            -119.897111111
+        ],
+        "location": "Spooner Summit North Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1035,
+            -119.895444444
+        ],
+        "location": "Spooner Summit South Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.1646111111,
+            -120.147388889
+        ],
+        "location": "Tahoe City/64 Acres Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.16925,
+            -120.148916667
+        ],
+        "location": "Tahoe City/Fairway Drive Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            39.3075277778,
+            -119.90775
+        ],
+        "location": "Tahoe Meadows Trailhead"
+    },
+    {
+        "activity": "Hiking",
+        "activity_group": "On the Mountain",
+        "coords": [
+            38.9565,
+            -119.934388889
+        ],
+        "location": "Van Sickle Connector Trail trailhead"
+    }
+]

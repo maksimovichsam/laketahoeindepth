@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Incline Village",
+        "loc": [39.25175, -119.97330]
+    },
+    {
+        "name": "Cave Rock",
+        "loc": [39.0462962,-119.9578261]
+    },
+    {
+        "name": "South Lake Tahoe",
+        "loc": [38.9227176,-120.013534]
+    },
+    {
+        "name": "Emerald Bay",
+        "loc": [38.96156,-120.1036887]
+    },
+    {
+        "name": "Homewood",
+        "loc": [39.0820174,-120.1626291]
+    },
+    {
+        "name": "Tahoe City",
+        "loc": [39.1555087,-120.18275]
+    },
+    {
+        "name": "Kings Beach",
+        "loc": [39.249242,-120.0442868]
+    },
+    {
+        "name": "Sand Harbor State Park",
+        "loc": [39.1986903,-119.9336363]
+    },
+    {
+        "name": "Zephyr Cove",
+        "loc": [39.0058558,-119.9505849]
+    },
+    {
+        "name": "Heavenly",
+        "loc": [38.9346193,-119.9426679]
+    },
+    {
+        "name": "Lakeview Commons",
+        "loc": [38.94489,-119.9791187]
+    },
+    {
+        "name": "Taylor Creek",
+        "loc": [38.938987,-120.0601248]
+    },
+    {
+        "name": "Desolation Wilderness",
+        "loc": [38.9499076,-120.1865438]
+    },
+    {
+        "name": "Meeks Bay",
+        "loc": [39.034352,-120.1262648]
+    },
+    {
+        "name": "Sugar Pine Point",
+        "loc": [39.0504976,-120.1178812]
+    },
+    {
+        "name": "Skunk Harbor",
+        "loc": [39.132357,-119.950767]
+    },
+    {
+        "name": "Logan Shoals",
+        "loc": [39.0578139,-119.945371],
+        "active": false
+    },
+    {
+        "name": "Fallen Leaf Lake",
+        "loc": [38.900402,-120.0791337]
+    },
+    {
+        "name": "Tahoma",
+        "loc": [39.0674065,-120.1369987]
+    },
+    {
+        "name": "Sunnyside",
+        "loc": [39.1391089,-120.1558019]
+    },
+    {
+        "name": "Alpine Meadows",
+        "loc": [39.1645287,-120.2409444]
+    },
+    {
+        "name": "Squaw Valley",
+        "loc": [39.2034119,-120.2287701]
+    },
+    {
+        "name": "Dollar Point",
+        "loc": [39.1909248,-120.1261392]
+    },
+    {
+        "name": "Carnelian Bay",
+        "loc": [39.2268494,-120.0993683]
+    }
+]

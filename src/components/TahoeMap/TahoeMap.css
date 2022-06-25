@@ -1,0 +1,106 @@
+.tahoe-map {
+    height: 100%;
+    flex-grow: 2;
+}
+
+.map-label {
+    border: none;
+    color: #191919b5;
+    cursor: default;
+
+    width: 80px;
+
+    font-size: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    
+    transform: translate(-50%, 0%);
+}
+
+.my-circle-marker {
+    background-color: #0d5061;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+
+    cursor: pointer;
+}
+
+.my-circle-marker-active {
+    background-color: #ffffff;
+}
+
+.marker-popup .leaflet-popup-tip {
+    display: none;
+}
+
+.marker-popup .leaflet-popup-close-button {
+    display: none;
+}
+
+.marker-popup .leaflet-popup-content {
+    margin: 0px;
+}
+
+.marker-popup .leaflet-popup-content-wrapper {
+    background: rgba(0,0,0,.5);
+    color: #fff;
+    border: 2px solid white;
+    border-radius: 0px;
+    padding: 0px;
+
+    text-transform: uppercase;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.marker-popup-offset-down .leaflet-popup-content-wrapper {
+    transform: translate(0%, calc(100% + 40px));
+}
+
+.marker-popup-offset-right .leaflet-popup-content-wrapper {
+    transform: translate(50%, 0px);
+}
+
+.marker-popup-offset-down-right .leaflet-popup-content-wrapper {
+    transform: translate(50%, calc(100% + 40px));
+}
+
+.photo-marker-popup {
+    padding: 13px;
+}
+
+.activity-marker-popup {
+    border-bottom: 1px solid #fff;
+    padding: 13px;
+    margin: -1px;
+}
+
+.activity-marker-popup:last-child {
+    border-bottom: none;
+}
+
+.activity-icon-container {
+    margin-top: 5px;
+    display: flex;
+}
+
+.activity-icon-container > * {
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(7481%) hue-rotate(220deg) brightness(96%) contrast(104%);
+    margin-right: 5px;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+.activity-icon-marker-container {
+    background: #fff;
+    width: 24px;
+    height: 24px;
+    border-radius: 5px;
+}
+
+.activity-icon-marker {
+    filter: brightness(0) saturate(100%) invert(21%) sepia(91%) saturate(433%) hue-rotate(143deg) brightness(100%) contrast(93%);
+    width: 24px;
+    height: 24px;
+}

@@ -1,0 +1,16 @@
+.module-header {
+    width: 16.5rem;
+
+    position: absolute;
+    right: 30px;
+    bottom: 150px;
+}
+
+.module-header-name {
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.module-header-desc {
+    font-size: 13px;
+}

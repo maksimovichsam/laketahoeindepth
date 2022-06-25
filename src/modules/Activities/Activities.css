@@ -1,0 +1,87 @@
+/**************************************************/
+/*                 Activity                       */
+/**************************************************/
+
+.activity {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: 50%;
+
+    position: relative;
+}
+
+.activity-header {
+    width: 200px;
+    height: 100%;
+    padding: 0px 20px;
+    background-color: rgba(0,0,0,.5);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    overflow-y: auto;
+
+    position: absolute;
+    top: 0px;
+    right: 20px;
+}
+
+.activity-title {
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+.activity-desc {
+    font-size: 15.6px;
+}
+
+.activity-arrow {
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 12px;
+    cursor: pointer;
+
+    position: absolute;
+    left: 60px;
+    top: 50%;
+    transform: translate(0%, -50%) rotate(135deg);
+}
+
+/**************************************************/
+/*              Activity Button                   */
+/**************************************************/
+
+.activity-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex: 1 1 200px;
+
+    height: 100%;
+    width: 100%;
+    overflow-y: auto;
+
+    flex-wrap: wrap;
+}
+
+.activity-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 28%;
+    height: 120px;
+    margin: 10px;
+    background-size: cover;
+    cursor: pointer;
+
+    font-size: 22px;
+    text-transform: uppercase;
+    background-position: 50%;
+}

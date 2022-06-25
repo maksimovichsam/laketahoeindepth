@@ -1,0 +1,15 @@
+.module-container {
+    width: 100%;
+    
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+
+    position: relative;
+}
+
+.module-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+}
