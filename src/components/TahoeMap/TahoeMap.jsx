@@ -25,7 +25,7 @@ function TahoeMap(props) {
         <div className="tahoe-map">
             <MapContainer 
                 style={{height: "100%", width: "100%"}}
-                bounds={MAP_BOUNDS}
+                center={APP_CONFIG.MAP_CENTER}
                 zoom={11}
                 dragging={false}
                 zoomControl={false}

@@ -45,7 +45,7 @@ function Photos(props) {
     let img;
     if (photos.length >= 1) {
         let { filename, credit } = photos[0];
-        let file_path = `/static/img/photos/${filename}`
+        let file_path = `/laketahoeindepth/static/img/photos/${filename}`
 
         img = (
             <div className="photos-container">

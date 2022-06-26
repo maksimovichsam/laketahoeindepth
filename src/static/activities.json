@@ -2,147 +2,147 @@
 	"biking": {
 		"name": "Biking",
 		"desc": "Biking offers magnificent views of Lake Tahoe. Choose from miles of paved paths and mountain biking trails. Pristine wilderness and panoramic vistas reward your challenging climb up steep and rocky trails, so come prepared. Trail etiquette asks that you “leave no trace” and respect hikers and animals as you ride.",
-		"poster": "/static/img/activities/poster/activities-21-biking.png",
-		"thumb": "/static/img/activities/thumb/activities-02.png",
-		"icon": "/static/img/activities/icons/activity-icons2-11.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-21-biking.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-02.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-11.svg"
 	},
 	"boating": {
 		"name": "Boating",
 		"desc": "While many locals prefer human-powered, low-impact activities, watercraft rentals are another option for a true blue Lake Tahoe adventure. Wakesurfing, wakeboarding, and waterskiing are usually best in the morning. Remember that if you bring a boat from elsewhere, you must have it inspected for aquatic invasive species before you launch.",
-		"poster": "/static/img/activities/poster/activities-32-boating.png",
-		"thumb": "/static/img/activities/thumb/activities-13.png",
-		"icon": "/static/img/activities/icons/activity-icons2-01.svg",
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-32-boating.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-13.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-01.svg",
 		"license": "https://creativecommons.org/licenses/by/4.0/",
 		"source": "Tom Hilton"
 	},
 	"camping": {
 		"name": "Camping",
 		"desc": "For total immersion in the Tahoe experience, nothing beats camping. Fall asleep under the stars and awaken in the crisp mountain air, ready for anything. Tahoe’s “Take Care” campaign offers good suggestions for protecting this beautiful land while you enjoy it.",
-		"poster": "/static/img/activities/poster/activities-20-camping.png",
-		"thumb": "/static/img/activities/thumb/activities-01.png",
-		"icon": "/static/img/activities/icons/activity-icons2-12.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-20-camping.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-01.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-12.svg"
 	},
 	"crossCountrySkiing": {
 		"name": "Cross-country Skiing",
 		"desc": "Lake Tahoe features the largest concentration of cross- country ski areas in North America. You can stride or skate in open meadows, explore secluded valleys, or climb to scenic overlooks. Backcountry skiers can access thousands of vertical feet of open terrain whether steps from the car or miles into the backcountry. Venture beyond the boundaries of the ski resort and into a world without crowds and tracked- up slopes.",
-		"poster": "/static/img/activities/poster/activities-29-crosscountry.png",
-		"thumb": "/static/img/activities/thumb/activities-06.png",
-		"icon": "/static/img/activities/icons/activity-icons2-13.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-29-crosscountry.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-06.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-13.svg"
 	},
 	"fishing": {
 		"name": "Fishing",
 		"desc": "Depending on the season, you can catch Mackinaw (Lake Trout), Rainbow Trout, Brown Trout, and Kokanee Salmon while fishing on Lake Tahoe. Whether you enjoy casual shore fishing, fly-fishing, or on-lake charters, you’ve got options! Note that fishing regulations vary between California and Nevada, and a license is always required.",
-		"poster": "/static/img/activities/poster/activities-33-fishing.png",
-		"thumb": "/static/img/activities/thumb/activities-14.png",
-		"icon": "/static/img/activities/icons/activity-icons2-02.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-33-fishing.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-14.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-02.svg"
 	},
 	"golfing": {
 		"name": "Golfing",
 		"desc": "Regardless of where you play, whether your course snakes through a glacially etched valley, contours along Lake Tahoe itself, or winds links-style through the trees, you’re going to witness some of the most eye-popping views found in Northern California and Nevada.",
-		"poster": "/static/img/activities/poster/activities-22-golfing.png",
-		"thumb": "/static/img/activities/thumb/activities-03.png",
-		"icon": "/static/img/activities/icons/activity-icons2-14.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-22-golfing.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-03.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-14.svg"
 	},
 	"hiking": {
 		"name": "Hiking",
 		"desc": "Hiking and exploring on foot is one of the best ways to access the beauty of Lake Tahoe. An extensive network of trails leads you up glacier-carved granite slopes to discover hidden waterfalls, along alpine meadows painted with wildflowers, or through pine-scented forests where birds and squirrels track your progress.",
-		"poster": "/static/img/activities/poster/activities-23-hiking.png",
-		"thumb": "/static/img/activities/thumb/activities-04.png",
-		"icon": "/static/img/activities/icons/activity-icons2-16.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-23-hiking.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-04.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-16.svg"
 	},
 	"kayaking": {
 		"name": "Kayaking & Canoeing",
 		"desc": "Tahoe’s sandy beaches and rocky inlets are ideal for all non-motorized watercrafts. The Lake Tahoe Water Trail Map guides you on this 1-4 day journey. If you bring your own boat, visit “Tahoe Keepers” to learn how to clean, drain, and dry it. Stop the spread of aquatic invasive species!",
-		"poster": "/static/img/activities/poster/activities-31-kayaking.png",
-		"thumb": "/static/img/activities/thumb/activities-12.png",
-		"icon": "/static/img/activities/icons/activity-icons2-03.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-31-kayaking.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-12.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-03.svg"
 	},
 	"kitesurfing": {
 		"name": "Kitesurfing & Windsurfing",
 		"desc": "Summer winds on Lake Tahoe are variable. Typically, gentle north winds in the morning becoming stronger in the afternoon/evenings and swing out from the west/southwest. The challenge lies in the unpredictability. You’ll need to read the wind on the water as you surf.",
-		"poster": "/static/img/activities/poster/activities-35-windsurfing.png",
-		"thumb": "/static/img/activities/thumb/activities-16.png",
-		"icon": "/static/img/activities/icons/activity-icons2-04.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-35-windsurfing.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-16.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-04.svg"
 	},
 	"museums": {
 		"name": "Museums & Cultural Activities",
 		"desc": "When you're craving to learn more about the environmental science of Lake Tahoe, visit the UC Davis Tahoe Science Center in Incline Village or Eriksson Education Center in Tahoe City. To learn about Tahoe's people and history, check out the many historical and cultural museums located around the lake.",
-		"poster": "/static/img/activities/poster/tahoe_activity_museums.png",
-		"thumb": "/static/img/activities/thumb/tahoe_activity_museums-icon.png",
-		"icon": "/static/img/activities/icons/activity-icons-museums-20.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/tahoe_activity_museums.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/tahoe_activity_museums-icon.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons-museums-20.svg"
 	},
 	"paddleboarding": {
 		"name": "Paddleboarding",
 		"desc": "Stand-up paddleboarding is a great water sport for anyone of any ability. Lake Tahoe offers over 72 miles of shoreline with dozens of public launch/landing sites.  If you bring your own board, visit “Tahoe Keepers” to learn how to clean, drain, and dry it. Stop the spread of aquatic invasive species!",
-		"poster": "/static/img/activities/poster/activities-30-paddleboarding.png",
-		"thumb": "/static/img/activities/thumb/activities-11.png",
-		"icon": "/static/img/activities/icons/activity-icons2-05.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-30-paddleboarding.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-11.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-05.svg"
 	},
 	"playgrounds": {
 		"name": "Parks & Playgrounds",
 		"desc": "From \"Sno-Parks\" to swings and merry-go-rounds, Tahoe is a great place to play. Explore these spots for family fun in any season!",
-		"poster": "/static/img/activities/poster/tahoe_activity_playgrounds.png",
-		"thumb": "/static/img/activities/thumb/tahoe_activity_playgrounds-icon.png",
-		"icon": "/static/img/activities/icons/activity-icons-playgrounds-15.svg",
+		"poster": "/laketahoeindepth/static/img/activities/poster/tahoe_activity_playgrounds.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/tahoe_activity_playgrounds-icon.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons-playgrounds-15.svg",
 		"license": "https://creativecommons.org/licenses/by/4.0/",
 		"source": "George Ruiz"
 	},
 	"rafting": {
 		"name": "Rafting",
 		"desc": "Enjoy a peaceful five-mile float down the Truckee River in rafts or inner tubes. Start your float at Tahoe City and pull out at Alpine Meadows Road. Note that alcohol is illegal on the river, and please be sensitive to this delicate environment by using the proper garbage and restroom facilities.",
-		"poster": "/static/img/activities/poster/activities-24-rafting.png",
-		"thumb": "/static/img/activities/thumb/activities-05.png",
-		"icon": "/static/img/activities/icons/activity-icons2-06.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-24-rafting.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-05.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-06.svg"
 	},
 	"rockclimbing": {
 		"name": "Rock Climbing",
 		"desc": "Want to get \"up close and personal\" with Tahoe's geologic history? Mostly granite with some basalt, Tahoe's sheer cliffs and boulders offer climbing challenges for almost every level of expertise. With crags facing every direction, you can find a good climb almost any time of year.",
-		"poster": "/static/img/activities/poster/tahoe_activity_rockclimbing.png",
-		"thumb": "/static/img/activities/thumb/tahoe_activity_rockclimbing-icon.png",
-		"icon": "/static/img/activities/icons/activity-icons-rockclimbing-10.svg",
+		"poster": "/laketahoeindepth/static/img/activities/poster/tahoe_activity_rockclimbing.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/tahoe_activity_rockclimbing-icon.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons-rockclimbing-10.svg",
 		"license": "https://creativecommons.org/licenses/by/4.0/",
 		"source": "Maria Ly"
 	},
 	"sailing": {
 		"name": "Sailing",
 		"desc": "Summer winds on Lake Tahoe are variable. Typically, gentle north winds in the morning becoming stronger in the afternoon/evenings and swing out from the west/southwest. The challenge lies in the unpredictability. If you bring a boat from elsewhere, you must have it inspected for aquatic invasive species before you launch.",
-		"poster": "/static/img/activities/poster/activities-37-sailing.png",
-		"thumb": "/static/img/activities/thumb/activities-18.png",
-		"icon": "/static/img/activities/icons/activity-icons2-09.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-37-sailing.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-18.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-09.svg"
 	},
 	"skiing": {
 		"name": "Skiing & Snowboarding",
 		"desc": "Skiing and snowboarding are a vital part of the winter experience at Lake Tahoe. Tourists and locals alike flock to local ski resorts for skiing and snowboarding adventures with a wide range of terrain for beginner, intermediate, and advanced skiers. Some of America’s top Winter Olympians trained at Tahoe!",
-		"poster": "/static/img/activities/poster/activities-27-skiing.png",
-		"thumb": "/static/img/activities/thumb/activities-08.png",
-		"icon": "/static/img/activities/icons/activity-icons2-17.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-27-skiing.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-08.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-17.svg"
 	},
 	"sledding": {
 		"name": "Sledding & Tubing",
 		"desc": "Make memories on the mountain with friends and family when you visit Lake Tahoe sledding hills. Many ski areas feature groomed snow-play areas and tubing lanes for varying thrill levels, and “Sno-Parks” can be found throughout the Tahoe Basin. Awaken the kid inside and find a good hill for sledding!",
-		"poster": "/static/img/activities/poster/activities-28-sledding.png",
-		"thumb": "/static/img/activities/thumb/activities-07.png",
-		"icon": "/static/img/activities/icons/activity-icons2-18.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-28-sledding.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-07.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-18.svg"
 	},
 	"snowshoeing": {
 		"name": "Snowshoeing & Snow Play",
 		"desc": "Backcountry snowshoeing, whether peaceful or strenuous, offers spectacular views of the lake and the surrounding mountains. For fun and easy snow-play, California State “Sno-Park” recreation areas are easily accessible and usually offer plowed off-street parking. Choose any National Forest land for more rugged terrain.",
-		"poster": "/static/img/activities/poster/activities-26-snowshoeing.png",
-		"thumb": "/static/img/activities/thumb/activities-09.png",
-		"icon": "/static/img/activities/icons/activity-icons2-19.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-26-snowshoeing.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-09.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-19.svg"
 	},
 	"surfing": {
 		"name": "Surfing",
 		"desc": "When huge storms hit Northern California, they can stir up the waters of Lake Tahoe enough to create waves large enough for surfers. These conditions are considered dangerous for most water activities, but they don’t stop thrill-seekers from putting on their wetsuits and hitting the chilly waters.",
-		"poster": "/static/img/activities/poster/activities-34-surfing.png",
-		"thumb": "/static/img/activities/thumb/activities-15.png",
-		"icon": "/static/img/activities/icons/activity-icons2-07.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-34-surfing.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-15.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-07.svg"
 	},
 	"swimming": {
 		"name": "Swimming",
 		"desc": "Lake Tahoe's water is cold, but come the hot days of summer, this clear, blue water is so enticing you won't care. Beautiful sandy beaches encourage the timid to start slow, while granite boulders allow a full-body plunge. Summer temperatures in shallow water can get as high as 68°F.",
-		"poster": "/static/img/activities/poster/activities-25-swimming.png",
-		"thumb": "/static/img/activities/thumb/activities-10.png",
-		"icon": "/static/img/activities/icons/activity-icons2-08.svg"
+		"poster": "/laketahoeindepth/static/img/activities/poster/activities-25-swimming.png",
+		"thumb": "/laketahoeindepth/static/img/activities/thumb/activities-10.png",
+		"icon": "/laketahoeindepth/static/img/activities/icons/activity-icons2-08.svg"
 	}
 }
