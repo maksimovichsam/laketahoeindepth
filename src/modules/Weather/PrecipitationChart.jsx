@@ -8,6 +8,7 @@ function PrecipitationChart(props) {
             data={data}
             time={time}
             units={"%"}
+            range={[0, 100]}
             />
 
     )

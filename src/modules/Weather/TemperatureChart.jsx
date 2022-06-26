@@ -18,14 +18,15 @@ function TemperatureChart(props) {
     //   beginning time of the chart's sliding window. If undefined, the first time of data is used
     // sliding_window_size (optional): an Integer, representing the number
     //   of milliseconds of the chart's window. 1 week is used by default
+    // range (optional): the range of the y-axis. If not specified, range is dynamic 
     // units (optional): a String, to display next to value labels 
 
     let [chart_width, setChartWidth] = useState(678);
     let [chart_height, setChartHeight] = useState(115);
     let svg_ref = useRef();
     
-    let { data, time, sliding_window_size, units } = props;
-    if (!data || !data.time || data.time.length == 0)
+    let { data, time, sliding_window_size, range, units } = props;
+    if (!data || !data.time || data.time.length === 0)
         throw new Error("Expected at least one value in props.data.time");
     time = time ?? data.time[0];
     sliding_window_size = sliding_window_size ?? ONE_DAY;
@@ -36,6 +37,7 @@ function TemperatureChart(props) {
     const t_n = data.time[data.time.length - 1];
     const y_min = Math.min(...data.values);
     const y_max = Math.max(...data.values);
+    range = range ?? [y_min, y_max];
 
     // Converts date to x-axis value
     const x_scale = (t) =>
@@ -44,10 +46,10 @@ function TemperatureChart(props) {
         .range([0, chart_width])(t - t_0);
 
     // Converts data to y-axis value
-    const y_padding_top = (y_max - y_min) * 0.25; 
-    const y_padding_bottom = (y_max - y_min) * 0.05;
+    const y_padding_top = (range[1] - range[0]) * 0.25; 
+    const y_padding_bottom = (range[1] - range[0]) * 0.05;
     const y_scale = scaleLinear()
-        .domain([y_min - y_padding_bottom, y_max + y_padding_top])
+        .domain([range[0] - y_padding_bottom, range[1] + y_padding_top])
         .range([chart_height, 0]);
 
     // Converts time value to temperature value using interpolation
