@@ -23,19 +23,20 @@ function Photos(props) {
     ///////////////////////////////////////////////////////////////
     // Set Photo Map Markers
     ///////////////////////////////////////////////////////////////
-    const PHOTO_MAP_MARKERS = PHOTOS
-        .map(({location, coords}, idx) => 
-            <PhotoMarker
-                key={`photo-marker-${idx}`}
-                position={createLatLng(...coords)}
-                location={location}
-                onClick={() => setActiveLocation(idx)}
-                />
-        );
-        
     useEffect(() => {
+        const PHOTO_MAP_MARKERS = PHOTOS
+            .map(({location, coords}, idx) => 
+                <PhotoMarker
+                    key={`photo-marker-${idx}`}
+                    position={createLatLng(...coords)}
+                    location={location}
+                    onClick={() => setActiveLocation(idx)}
+                    active={idx === active_location_idx}
+                    />
+            );
+
         setMapMarkers(PHOTO_MAP_MARKERS);
-    }, []);
+    }, [active_location_idx]);
     ///////////////////////////////////////////////////////////////
     
     const active_location = PHOTOS[active_location_idx];
