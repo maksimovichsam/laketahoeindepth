@@ -1,14 +1,11 @@
 import { today, extract_time_series, http_get } from "./util";
 
-const base_url = "https://api.weather.gov/";
-const tahoe_office = "REV"
-const [tahoe_gx, tahoe_gy] = [33, 87];
-
-
 class WeatherService {
     static last_retrieved = undefined;
-    static forecasts = undefined;
+    static forecast_cache = {};
     static max_attempts = 5;
+
+    static BASE_URL = "https://api.weather.gov/";
 
     static TEMPERATURE_KEY = "temperature";
     static PRECIPITATION_KEY = "probabilityOfPrecipitation";
@@ -22,25 +19,34 @@ class WeatherService {
     static KMH_TO_MPH = 0.621371;
     static ONE_HOUR = 5 * 1000;
 
-    static async get_forecasts() {
+    static async get_forecasts(office, grid_x, grid_y) {
         // Uses the national weather service api to retrieve forecasted weather data
         // See documentation here https://www.weather.gov/documentation/services-web-api
         // 
+        // I use the https://api.weather.gov/gridpoints/{office}/{gridX},{gridY} endpoint
         // The national weather service returns a JSON object with a very specific format
         // See an example here https://api.weather.gov/gridpoints/REV/33,87 to give some
         // context on how it is structured
+        // Arguments:
+        //  office: parameter of weather api 
+        //  grid_x: parameter of weather api
+        //  grid_y: parameter of weather api
+
         let now = new Date();
         let time_since_last_retrieved = (WeatherService.last_retrieved === undefined) 
             ? 24 * WeatherService.ONE_HOUR 
             : now - WeatherService.last_retrieved;
 
         // Return cached result
-        if (WeatherService.forecasts && time_since_last_retrieved < this.ONE_HOUR) {
+        const forecast_key = `${office}-${grid_x}-${grid_y}`
+        if (forecast_key in WeatherService.forecast_cache && 
+            time_since_last_retrieved < this.ONE_HOUR) {
             console.log("returning cached result", time_since_last_retrieved);
-            return WeatherService.forecasts;
+            return WeatherService.forecast_cache[forecast_key];
         }
 
-        const url = `${base_url}gridpoints/${tahoe_office}/${tahoe_gx},${tahoe_gy}`;
+        const endpoint = `gridpoints/${office}/${grid_x},${grid_y}`
+        const url = `${WeatherService.BASE_URL}${endpoint}`;
         const headers = { "Accept": "application/geo+json" }
         
         let geo_json;
@@ -58,7 +64,7 @@ class WeatherService {
         }
 
         WeatherService.last_retrieved = now;
-        WeatherService.forecasts = geo_json;
+        WeatherService.forecast_cache[forecast_key] = geo_json;
         return geo_json;
     }
 

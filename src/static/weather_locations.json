@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Tahoe City",
+        "coords": [
+            39.167036,
+            -120.144906
+        ],
+        "gridX": 30,
+        "gridY": 91,
+        "office": "REV"
+    },
+    {
+        "name": "Incline Village",
+        "coords": [
+            39.249326,
+            -119.952806
+        ],
+        "gridX": 37,
+        "gridY": 94,
+        "office": "REV"
+    },
+    {
+        "name": "Glenbrook",
+        "coords": [
+            39.089535,
+            -119.937799
+        ],
+        "gridX": 36,
+        "gridY": 87,
+        "office": "REV"
+    },
+    {
+        "name": "South Lake Tahoe",
+        "coords": [
+            38.939413,
+            -119.974385
+        ],
+        "gridX": 34,
+        "gridY": 80,
+        "office": "REV"
+    },
+    {
+        "name": "Meyers",
+        "coords": [
+            38.854553,
+            -120.014343
+        ],
+        "gridX": 31,
+        "gridY": 77,
+        "office": "REV"
+    },
+    {
+        "name": "Homewood",
+        "coords": [
+            39.084484,
+            -120.161165
+        ],
+        "gridX": 28,
+        "gridY": 88,
+        "office": "REV"
+    },
+    {
+        "name": "Sunnyside",
+        "coords": [
+            39.138651,
+            -120.152808
+        ],
+        "gridX": 29,
+        "gridY": 90,
+        "office": "REV"
+    }
+]

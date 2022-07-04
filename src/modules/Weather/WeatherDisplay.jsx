@@ -1,22 +1,28 @@
 import { useState } from "react";
 import { useOutletContext } from "react-router-dom";
 import { select } from "d3";
-import WeatherDayIcon from "./WeatherDayIcon";
-import "./Weather.css";
 
-import MODULES from "../../static/modules.json";
-import TemperatureChart from "./TemperatureChart";
-import { celsius_to_f, DAYS_OF_WEEK, round, today, militaryHourTo12Hour, interpolate, useForceUpdate } from "../../js/util";
-import WeatherService from "../../js/nws_api";
+import WeatherDayIcon from "./WeatherDayIcon";
 import PrecipitationChart from "./PrecipitationChart";
 import WindChart from "./WindChart";
+import TemperatureChart from "./TemperatureChart";
+import "./Weather.css";
+
+import WeatherService from "../../js/nws_api";
+import { celsius_to_f, DAYS_OF_WEEK, round, today, militaryHourTo12Hour, interpolate, useForceUpdate } from "../../js/util";
+import MODULES from "../../static/modules.json";
+import WEATHER_LOCATIONS from "../../static/weather_locations.json";
+
 
 function WeatherDisplay(props) {
     const forceUpdate = useForceUpdate();
     const [active_icon_idx, setActiveIconIdx] = useState(undefined);
-    const [_, tab_index, [forecasts, updateForecasts]] = useOutletContext();
+    const [[map_markers, setMapMarkers, active_location_idx, setActiveLocation],
+        tab_index, [forecasts, updateForecasts]] = useOutletContext();
 
-    const tab = Object.values(MODULES.WEATHER.TABS)[tab_index];    
+    const active_weather_location = WEATHER_LOCATIONS[active_location_idx];
+    const location_name = active_weather_location.name;
+    const tab = Object.values(MODULES.WEATHER.TABS)[tab_index];
 
     // Temperature
     const temperature = WeatherService
@@ -131,8 +137,12 @@ function WeatherDisplay(props) {
                 clearInterval(animation);
             }
         }, 1);
+        
+        // Update weather
         setActiveIconIdx(undefined);
-        updateForecasts();
+        const {office, gridX, gridY} = active_weather_location;
+        updateForecasts(office, gridX, gridY);
+
         // component would not update if active_icon_idx is already undefined
         forceUpdate();
     }
@@ -175,7 +185,7 @@ function WeatherDisplay(props) {
                     
                     <div className="weather-header-right"> 
                         <span className="weather-header-location">
-                            Lake Tahoe 
+                            { location_name }
                         </span>
                         <span className="weather-header-date">
                             { 

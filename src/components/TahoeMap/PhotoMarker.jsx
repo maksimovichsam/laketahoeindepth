@@ -4,6 +4,7 @@ import "./TahoeMap.css";
 function PhotoMarker(props) {
     return (
         <IconMarker
+            active={props.active}
             position={props.position}
             onClick={props.onClick}
             >
