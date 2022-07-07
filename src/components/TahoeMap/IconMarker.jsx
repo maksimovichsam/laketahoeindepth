@@ -51,12 +51,15 @@ function IconMarker(props) {
             icon={div} 
             >
 
-            <Popup 
-                autoPan={false}
-                className={popup_class}
-                >
-                { props.children }
-            </Popup>
+            {
+                props.children &&
+                <Popup 
+                    autoPan={false}
+                    className={popup_class}
+                    >
+                    { props.children }
+                </Popup>
+            }
 
         </Marker>
     );

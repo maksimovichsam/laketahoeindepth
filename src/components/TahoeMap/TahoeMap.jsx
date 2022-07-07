@@ -9,7 +9,6 @@ import TextMarker from "./TextMarker";
 ///////////////////////////////////////////////////
 // Static Constants
 ///////////////////////////////////////////////////
-const MAP_BOUNDS = APP_CONFIG.MAP_BOUNDS;
 const MAP_LABEL_MARKERS = MAP_LABELS.map((label) => {
     return (
         <TextMarker

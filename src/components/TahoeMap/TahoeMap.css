@@ -104,3 +104,23 @@
     width: 24px;
     height: 24px;
 }
+
+.color-marker {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #0d5061;
+    width: fit-content;
+    padding: 2px 10px;
+    border-radius: 10px;
+    
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.error-icon {
+    background-color: #610d0d;
+    padding: 5px;
+    border-radius: 50%;
+}

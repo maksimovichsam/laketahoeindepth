@@ -1,9 +1,15 @@
 import "./LakeConditions.css";
 import "../../css/Modules.css";
 
+import ModuleContainer from "../../components/ModuleContainer/ModuleContainer";
+
+import MODULES from "../../static/modules.json";
+
 function LakeConditions(props) {
     return (
-        <div> LakeConditions </div>
+        <ModuleContainer
+            module={MODULES.LAKE_CONDITIONS}
+            />
     );
 }
 

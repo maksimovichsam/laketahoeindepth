@@ -138,22 +138,54 @@
             }
         }
     },
-    "CITIZEN SCIENCE": {
+    "CITIZEN_SCIENCE": {
         "name": "Citizen Science",
         "image": "/laketahoeindepth/static/img/module-citizen-science.png",
         "href": "citizen-science",
         "description": "Non-scientists contribute to our understanding of the Lake by recording water, land, and air conditions. Join the fun! Download the \"Citizen Science Tahoe\" app."
     },
-    "RIVER CONDITIONS": {
+    "RIVER_CONDITIONS": {
         "name": "River Conditions",
         "image": "/laketahoeindepth/static/img/module-river-conditions.png",
         "href": "river-conditions",
         "description": "There are 63 streams that feed into Lake Tahoe. The Truckee River, the only outflow from the lake, allows rafting if the lake level is high enough to flow out at the Tahoe City dam."
     },
-    "LAKE CONDITIONS": {
+    "LAKE_CONDITIONS": {
         "name": "Lake Conditions",
         "image": "/laketahoeindepth/static/img/module-lake-conditions.png",
         "href": "lake-conditions",
-        "description": "Varying wave height, water temperature, algae concentrations, clarity, and lake levels all combine to create a complex and ever-changing freshwater environment."
+        "description": "Varying wave height, water temperature, algae concentrations, clarity, and lake levels all combine to create a complex and ever-changing freshwater environment.",
+        "TABS": {
+            "WAVE_HEIGHT": {
+                "name": "Wave Height",
+                "href": "wave-height",
+                "desc": "Lake Tahoe can be perfectly flat and serene, or blustery winds can churn up six-foot high waves. Waves are produced by wind blowing across the lake. The highest waves occur on the downwind side of the lake, which is typically the north and east shores at Lake Tahoe. Wind and waves are usually higher in the afternoon, so be sure to plan ahead and stay safe.",
+                "image": "/laketahoeindepth/static/img/lake_conditions/waveheight.png"
+            },
+            "WATER_TEMPERATURE": {
+                "name": "Water Temperature",
+                "href": "water-temperature",
+                "desc": "Lake Tahoe water is cold for most swimmers, with surface temperatures ranging from 42 degrees in the winter to over 70 degrees in July and August. Though refreshing on a hot day, a plunge into Lake Tahoe can literally take your breath away. Swimmers should be prepared for dangerously cold conditions.",
+                "image": "/laketahoeindepth/static/img/lake_conditions/watertemp.png"
+            },
+            "ALGAE": {
+                "name": "Algae",
+                "href": "algae",
+                "desc": "Underwater instruments measure the interaction of light with chlorophyll from free-floating algae (phytoplankton) in the water. The apparent daily declines in algae concentrations are due to the interference from bright sunlight.",
+                "image": "/laketahoeindepth/static/img/lake_conditions/algae.png"
+            },
+            "CLARITY": {
+                "name": "Clarity",
+                "href": "clarity",
+                "desc": "Turbidity is a measure of how cloudy the water is. Sediment from erosion makes the water less transparent. In most areas of Lake Tahoe, the water is generally very clear (turbidity values near zero), but afternoon waves can stir up sediment and increase turbidity in the nearshore.",
+                "image": "/laketahoeindepth/static/img/lake_conditions/turbidity.png"
+            },
+            "LAKE_LEVEL": {
+                "name": "Lake Level",
+                "href": "lake-level",
+                "desc": "Lake level varies throughout the year. Lake level rises due to high stream inflow, groundwater inflow, and precipitation directly onto the lake surface. It falls due to evaporation, water withdrawals, groundwater outflows, and outflow via the Truckee River at Tahoe City.",
+                "image": "/laketahoeindepth/static/img/lake_conditions/turbidity.png"
+            }
+        }
     }
 }

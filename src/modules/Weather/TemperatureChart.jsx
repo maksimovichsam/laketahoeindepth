@@ -56,15 +56,21 @@ function TemperatureChart(props) {
     const value_at_time = (date) => interpolate(date, data.time, data.values);
 
     ///////////////////////////////////////////////
-    // Render Chart 
+    // Chart Dimensions
     ///////////////////////////////////////////////
     useEffect(() => {
-        const svg = select(svg_ref.current);
         const width = svg_ref.current.clientWidth;
         const height = svg_ref.current.clientHeight;
         setChartWidth(width);
         setChartHeight(height);
+    }, [data, time, sliding_window_size]);
 
+    ////////////////////////////////////////////////////////
+    // Render Chart
+    ////////////////////////////////////////////////////////
+    useEffect(() => {
+        const svg = select(svg_ref.current);
+        
         // Create line
         const line_data = [];
         for (let i = 0; i < data.time.length; i++) {
@@ -94,7 +100,7 @@ function TemperatureChart(props) {
             .transition()
             .duration(1000)
             .style("transform", `translate(${translate_x}px, 0)`);
-    }, [data, time, sliding_window_size]);
+    }, [chart_width, chart_height, data, time, sliding_window_size]);
 
     ////////////////////////////////////////////////////////
     // Labels

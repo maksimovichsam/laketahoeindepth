@@ -9,12 +9,18 @@ import ModuleSelector from './components/TabGroup/ModuleSelector/ModuleSelector'
 import TahoeMap from './components/TahoeMap/TahoeMap';
 
 import MODULES from "./static/modules.json";
+import { clamp } from './js/util';
 
 function App() {
     const [module_index, setModuleIndex] = useState(0);
     const [map_markers, setMapMarkers] = useState([]);
     const [active_location_idx, setActiveLocation] = useState(0);
     
+    function safelySetMapMarkers(markers) {
+        setActiveLocation(clamp(active_location_idx, 0, markers.length - 1));
+        setMapMarkers(markers);
+    }
+
     /////////////////////////////////////////////////
     // Determine which module is currently active
     // by parsing the window's URL
@@ -68,7 +74,7 @@ function App() {
 
                 <Outlet
                     context={[
-                        map_markers, setMapMarkers,
+                        map_markers, safelySetMapMarkers,
                         active_location_idx, setActiveLocation,
                         ]}
                     />

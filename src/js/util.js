@@ -3,6 +3,7 @@ import ACTIVITIES from "../static/activities.json";
 import { useState } from "react";
 
 export const DAYS_OF_WEEK = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+export const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "October", "November", "December"];
 export const SEASONS = ["Spring", "Summer", "Fall", "Winter"];
 export const SEASON_TIMES = [   
     ["03-21", "06-20"],
@@ -10,8 +11,6 @@ export const SEASON_TIMES = [
     ["09-21", "12-20"],
     ["01-01", "03-20"]
 ];
-
-export const DEFAULT_ROUTE = "/images/photos?season=fall";
 
 export function createLatLng(lat, lon) {
     // Creates a latitude longitude object
@@ -354,3 +353,106 @@ export function useForceUpdate(){
     const [value, setValue] = useState(0); // integer state
     return () => setValue(value => value + 1); // update state to force render
 }
+
+export function getDaysBetween(start_date, end_date) {
+    // Returns the days between start date and end date
+    const ONE_DAY = 24 * 60 * 60 * 1000;
+    let start = new Date(start_date.getTime());
+    start.setHours(0);
+    start.setMinutes(0);
+    start.setSeconds(0);
+    start.setMilliseconds(0);
+    if (start < start_date)
+        start = new Date(start.getTime() + ONE_DAY);
+    let res = [];
+    for (let t = start.getTime(); t < end_date.getTime(); t += ONE_DAY)
+        res.push(new Date(t));
+    return res;
+}
+
+export function clamp(x, min, max) {
+    if (x < min) return min;
+    if (x > max) return max;
+    return x;
+}
+
+export function format_ymd(date) {
+    // formats date as YYYYMMDD
+    const year = String(date.getUTCFullYear());
+    const month = String(date.getUTCMonth() + 1).padStart(2, "0");
+    const day = String(date.getUTCDate()).padStart(2, "0");
+    return `${year}${month}${day}`;
+}
+
+export function colorFromHex(hex_code) {
+    let res = [];
+    let start_index = (hex_code[0] === '#') ? 1 : 0;
+    for (let i = start_index; i < hex_code.length; i += 2)
+        res.push(Number.parseInt(hex_code.substring(i, i + 2), 16));
+    return res;
+}
+
+export function colorScale(colors, discrete) {
+    // returns a function that maps a percent in [0, 1] to a range of colors
+    // Arguments:
+    //  colors: an array of 3-length rgb arrays (e.g [[0, 0, 0], [255, 255, 0]])
+    //  discrete (optional, default=false): whether to create a discrete color map
+    if (discrete === undefined)
+        discrete = false;
+    return (percent) => {
+        if (percent <= 0)
+            return colors[0];
+        if (percent >= 1.0)
+            return colors[colors.length - 1];
+        if (discrete) {
+            let color_index = Math.floor(percent * colors.length);
+            return colors[color_index]; 
+        }
+        
+        let color_index = Math.floor(percent * (colors.length - 1)); 
+        let c1 = colors[color_index];
+        let c2 = colors[color_index + 1];
+        
+        // Linearly interpolate between c1 and c2
+        let c1_percent = color_index / (colors.length - 1);
+        let c2_percent = (color_index + 1) / (colors.length - 1);
+        percent = (percent - c1_percent) / (c2_percent - c1_percent);
+        let res = [];
+        for (let i = 0; i < c1.length; i++)
+            res.push(Math.floor(c1[i] + (c2[i] - c1[i]) * percent))
+        return res;
+    }
+}
+ 
+export function colorGradient(c1, c2, num_colors) {
+    // Breaks apart two colors into a gradient of colors between the two
+    // Arguments:
+    //  c1: the first color in the gradient
+    //  c2: the last color in the gradient
+    //  num_colors (optional, default=2): the number of colors in the result (minimum is 2)
+    num_colors = num_colors ?? 2; 
+    num_colors = Math.max(num_colors, 2);
+
+    let gradient = [];
+    for (let i = 0; i < num_colors; i++) {
+        let percent = (i / (num_colors - 1));
+        let new_color = [];
+        for (let j = 0; j < c1.length; j++)
+            new_color.push(c1[j] + (c2[j] - c1[j]) * percent);
+        gradient.push(new_color);
+    }
+    return gradient;
+}
+
+// Colors taken from https://github.com/Kitware/ParaView/blob/6777e1303f9d1eb341131354616241dbc5851340/Wrapping/Python/paraview/_colorMaps.py#L1599
+export const ice_to_fire_discrete = colorScale(
+    [[0, 30, 77], [0, 55, 134], [14, 88, 168], [32, 126, 184], [48, 164, 202], [83, 200, 223],
+    [155, 228, 239], [225, 233, 209], [243, 213, 115], [231, 176, 0], [218, 130, 0], [198, 84, 0],
+    [172, 35, 0], [130, 0, 0], [76, 0, 0]], true
+);
+
+export const ice_to_fire = colorScale(
+    [[0, 30, 77], [0, 55, 134], [14, 88, 168], [32, 126, 184], [48, 164, 202], [83, 200, 223],
+    [155, 228, 239], [225, 233, 209], [243, 213, 115], [231, 176, 0], [218, 130, 0], [198, 84, 0],
+    [172, 35, 0], [130, 0, 0], [76, 0, 0]], false
+);

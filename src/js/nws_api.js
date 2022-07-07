@@ -41,7 +41,6 @@ class WeatherService {
         const forecast_key = `${office}-${grid_x}-${grid_y}`
         if (forecast_key in WeatherService.forecast_cache && 
             time_since_last_retrieved < this.ONE_HOUR) {
-            console.log("returning cached result", time_since_last_retrieved);
             return WeatherService.forecast_cache[forecast_key];
         }
 

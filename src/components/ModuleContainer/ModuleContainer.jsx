@@ -17,6 +17,7 @@ function ModuleContainer(props) {
     transparent_tabs = transparent_tabs ?? false;
 
     let [tab_index, setTabIndex] = useState(0);
+    const current_tab = Object.values(module.TABS)[tab_index];
 
     //////////////////////////////////////////////////////////
     // Determine which tab is currently active by parsing url
@@ -54,8 +55,20 @@ function ModuleContainer(props) {
     if (props.context)
         combined_context.push(props.context);
 
+    // Create image style if current tab has an image
+    const background_image = current_tab.image;
+    const background_image_style = (background_image) ? {
+        "backgroundImage": `url(${background_image})`,
+        "backgroundSize": "cover",
+        "backgroundPosition": "50%"
+    } : undefined;
+
+    const tab_has_header = current_tab.desc !== undefined;
+
     return (
-        <div className="module-container"> 
+        <div className="module-container"
+            style={ background_image_style }
+            > 
             <div 
                 className={transparent_tabs ? "transparent-top-tabs" : ""}>
                     
@@ -65,7 +78,22 @@ function ModuleContainer(props) {
 
             </div>
 
-            <Outlet context={combined_context}/>
+            <div className="tab-content">
+                <Outlet context={combined_context}/>
+
+                {
+                    tab_has_header &&
+                    <div className="tab-header">
+                        <div className="tab-title"> 
+                            { current_tab.name }
+                        </div>
+                        <div className="tab-desc">
+                            { current_tab.desc }
+                        </div>
+                    </div>
+                }
+
+            </div>
         </div>
     );
 }

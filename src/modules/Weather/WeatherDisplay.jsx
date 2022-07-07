@@ -148,92 +148,76 @@ function WeatherDisplay(props) {
     }
 
     return (
-        <div 
-            style={{"backgroundImage": `url(${tab.image})`}}
-            className="weather-display"
-            >
+        <div className="weather-dashboard">
+            <div className="weather-header">
+                <div className="weather-header-left">
 
-            <div className="weather-dashboard">
-                <div className="weather-header">
-                    <div className="weather-header-left">
-
-                        <i className="weather-icon wi wi-day-sunny"></i>
-                        
-                        <div className="weather-header-value">
-                            { temperature_now }
-                        </div> 
-
-                        <span className="weather-header-units">
-                            °F
-                        </span>
-
-                        <div
-                            className="weather-header-stats"
-                            >
-                            <span> Precipitation: {precipitation_now}% </span>
-                            <span> Humidity: {humidity_now}% </span>
-                            <span> Wind: {wind_now} mph  </span>
-                        </div>
-
-                        <span 
-                            onClick={() => onRefresh()}
-                            className="weather-refresh material-symbols-outlined"> 
-                            refresh
-                        </span>
-
-                    </div>
+                    <i className="weather-icon wi wi-day-sunny"></i>
                     
-                    <div className="weather-header-right"> 
-                        <span className="weather-header-location">
-                            { location_name }
-                        </span>
-                        <span className="weather-header-date">
-                            { 
-                                format_date(
-                                    new Date(now),
-                                    active_icon_idx === undefined
-                                ) 
-                            } 
-                        </span>
-                        <span className="weather-header-conditions"> {sky_cover_now} </span>
+                    <div className="weather-header-value">
+                        { temperature_now }
+                    </div> 
+
+                    <span className="weather-header-units">
+                        °F
+                    </span>
+
+                    <div
+                        className="weather-header-stats"
+                        >
+                        <span> Precipitation: {precipitation_now}% </span>
+                        <span> Humidity: {humidity_now}% </span>
+                        <span> Wind: {wind_now} mph  </span>
                     </div>
+
+                    <span 
+                        onClick={() => onRefresh()}
+                        className="weather-refresh material-symbols-outlined"> 
+                        refresh
+                    </span>
 
                 </div>
-
-                {
-                    (tab.name === "Temperature") ?
-                        <TemperatureChart
-                            data={temperature}
-                            time={date}
-                            units={"°"}
-                            />
-                    : (tab.name === "Precipitation") ?
-                        <PrecipitationChart
-                            data={precipitation}
-                            time={date}
-                            />
-                    : (tab.name === "Wind") ? 
-                        <WindChart
-                            speed={wind_speed}
-                            direction={wind_direction}
-                            time={date}
-                            />
-                    : <div> Unknown tab {`${tab.name}`} </div>
-                }
-
-                <div className="weather-display-icons">
-                    { icons }
+                
+                <div className="weather-header-right"> 
+                    <span className="weather-header-location">
+                        { location_name }
+                    </span>
+                    <span className="weather-header-date">
+                        { 
+                            format_date(
+                                new Date(now),
+                                active_icon_idx === undefined
+                            ) 
+                        } 
+                    </span>
+                    <span className="weather-header-conditions"> {sky_cover_now} </span>
                 </div>
 
             </div>
 
-            <div className="weather-display-header">
-                <div className="weather-display-title"> 
-                    { tab.name }
-                </div>
-                <div className="weather-display-desc">
-                    { tab.desc }
-                </div>
+            {
+                (tab.name === "Temperature") ?
+                    <TemperatureChart
+                        data={temperature}
+                        time={date}
+                        units={"°"}
+                        />
+                : (tab.name === "Precipitation") ?
+                    <PrecipitationChart
+                        data={precipitation}
+                        time={date}
+                        />
+                : (tab.name === "Wind") ? 
+                    <WindChart
+                        speed={wind_speed}
+                        direction={wind_direction}
+                        time={date}
+                        />
+                : <div> Unknown tab {`${tab.name}`} </div>
+            }
+
+            <div className="weather-display-icons">
+                { icons }
             </div>
 
         </div>
