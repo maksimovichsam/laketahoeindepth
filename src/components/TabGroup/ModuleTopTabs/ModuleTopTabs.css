@@ -8,6 +8,7 @@
     font-size: 19.92px;
     color: var(--primary-font);
     text-decoration: none;
+    text-align: center;
 
     display: flex;
     align-items: center;

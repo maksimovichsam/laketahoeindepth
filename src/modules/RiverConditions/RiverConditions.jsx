@@ -1,9 +1,15 @@
+import ModuleContainer from "../../components/ModuleContainer/ModuleContainer";
+
 import "./RiverConditions.css";
 import "../../css/Modules.css";
 
+import MODULES from "../../static/modules.json";
+
 function RiverConditions(props) {
     return (
-        <div> RiverConditions </div>
+        <ModuleContainer
+            module={MODULES.RIVER_CONDITIONS}
+            />
     );
 }
 

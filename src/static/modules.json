@@ -148,7 +148,15 @@
         "name": "River Conditions",
         "image": "/laketahoeindepth/static/img/module-river-conditions.png",
         "href": "river-conditions",
-        "description": "There are 63 streams that feed into Lake Tahoe. The Truckee River, the only outflow from the lake, allows rafting if the lake level is high enough to flow out at the Tahoe City dam."
+        "description": "There are 63 streams that feed into Lake Tahoe. The Truckee River, the only outflow from the lake, allows rafting if the lake level is high enough to flow out at the Tahoe City dam.",
+        "TABS": {
+            "RIVERS_CREEKS": {
+                "name": "Rivers & Creeks",
+                "href": "rivers-creeks",
+                "desc": "The U. S. Geological Survey measures the amount of water flowing in the rivers and streams, measured as cubic feet per second (cfs). Constant flow rates are typical in summer and fall. In winter and spring, streamflow can fluctuate daily due to storms and snowmelt. The Truckee River, which is controlled by a dam, shows little day-to-day fluctuation.",
+                "image": "/laketahoeindepth/static/img/river_conditions/river_flow.png"
+            }
+        }
     },
     "LAKE_CONDITIONS": {
         "name": "Lake Conditions",

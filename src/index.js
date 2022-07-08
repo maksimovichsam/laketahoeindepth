@@ -24,6 +24,7 @@ import WaterTemperature from './modules/LakeConditions/WaterTemperature';
 import Algae from './modules/LakeConditions/Algae';
 import Clarity from './modules/LakeConditions/Clarity';
 import LakeLevel from './modules/LakeConditions/LakeLevel';
+import RiversCreeks from './modules/RiverConditions/RiversCreeks';
 
 function Redirect(to) {
     return (
@@ -109,8 +110,17 @@ root.render(
                 <Route 
                     element={<RiverConditions/>}
                     path={MODULES.RIVER_CONDITIONS.href}
-                    />
-                
+                    >
+                    
+                    { Redirect(`/${MODULES.RIVER_CONDITIONS.href}/${MODULES.RIVER_CONDITIONS.TABS.RIVERS_CREEKS.href}`) }
+
+                    <Route
+                        element={<RiversCreeks/>}
+                        path={MODULES.RIVER_CONDITIONS.TABS.RIVERS_CREEKS.href}
+                        />
+
+                </Route>
+
                 <Route 
                     element={<LakeConditions/>}
                     path={MODULES.LAKE_CONDITIONS.href}

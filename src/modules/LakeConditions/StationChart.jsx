@@ -81,7 +81,6 @@ function StationChart(props) {
             const valid_data = most_recent_data.filter(x => typeof x === "number");
             const min_value = Math.min(...valid_data);
             const max_value = Math.max(...valid_data);
-            // rgba(57, 140, 135 -> rgba(4, 52, 77, alpha = 0.8
             const min_color = [57, 140, 135];
             const max_color = [4, 52, 77];
             const color_scale = colorScale([min_color, max_color]);

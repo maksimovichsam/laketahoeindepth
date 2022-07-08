@@ -110,7 +110,6 @@ class DataStation {
         // Return data if already processed
         const key = `get_data-${format_ymd(start_date)},${format_ymd(end_date)},${data_type_name}`;
         if (this.download_cache.has(key)) {
-            console.log("Returning cached value ", key)
             return this.download_cache.get(key);
         }
 
@@ -187,7 +186,8 @@ class TercAPI {
     static ALGAE_NAME             = "Algae";
     static CLARITY_NAME           = "Clarity";
     static LAKE_LEVEL_NAME        = "Lake Level";
-    
+    static RIVER_DISCHARGE_NAME   = "Discharge";
+
     static get_stations_with_data_type(data_type_name) {
         return STATIONS
             .filter((station) => station.has_data_type(data_type_name));
