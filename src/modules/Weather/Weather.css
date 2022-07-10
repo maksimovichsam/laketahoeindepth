@@ -147,8 +147,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     padding: 5px 10px;
     cursor: pointer;
+    text-align: center;
 }
 
 .weather-day-icon-active {

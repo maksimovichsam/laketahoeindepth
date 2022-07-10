@@ -180,19 +180,19 @@
         ],
         "STATIONS": [
             {
-                "id": 103366092,
-                "name": "Upper Truckee River near Meyers",
-                "coords": [
-                    38.848,
-                    -120.028
-                ]
-            },
-            {
                 "id": 10336610,
                 "name": "Upper Truckee River at South Lake Tahoe",
                 "coords": [
                     38.922,
                     -119.992
+                ]
+            },
+            {
+                "id": 103366092,
+                "name": "Upper Truckee River near Meyers",
+                "coords": [
+                    38.848,
+                    -120.028
                 ]
             },
             {

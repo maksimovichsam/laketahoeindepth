@@ -1,7 +1,7 @@
 function Live(props) {
     return (
         <div className="live-container">
-            Live 
+            In Construction
         </div>
     );
 }

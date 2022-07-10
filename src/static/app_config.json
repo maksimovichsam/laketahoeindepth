@@ -4,5 +4,16 @@
         [38.838, -120.249]
     ],
     "MAP_CENTER": [39.098, -120.031],
-    "ACTIVITY_CLUSTER_DISTANCE": 0.5
+    "ACTIVITY_CLUSTER_DISTANCE": 0.5,
+    "firebase": {
+		"config": {
+			"apiKey": "AIzaSyCHD6wt1p8LjDkn0-ToN8b4B20inlNxzWE",
+			"authDomain": "citizen-science-tahoe.firebaseapp.com",
+			"databaseURL": "https://citizen-science-tahoe.firebaseio.com",
+			"projectId": "citizen-science-tahoe",
+			"storageBucket": "citizen-science-tahoe.appspot.com",
+			"messagingSenderId": "282360623598"
+		},
+		"domains": ["algae", "beach", "species", "water"]
+	}
 }

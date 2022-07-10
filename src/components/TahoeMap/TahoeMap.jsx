@@ -5,6 +5,7 @@ import { createLatLng } from "../../js/util";
 import MAP_LABELS from "../../static/map_labels.json";
 import APP_CONFIG from "../../static/app_config.json";
 import TextMarker from "./TextMarker";
+import Acknowledgements from "./Acknowledgements";
 
 ///////////////////////////////////////////////////
 // Static Constants
@@ -43,6 +44,7 @@ function TahoeMap(props) {
 
             </MapContainer>
 
+            <Acknowledgements/>
         </div>
     );
 }

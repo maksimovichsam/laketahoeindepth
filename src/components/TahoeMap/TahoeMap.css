@@ -1,6 +1,7 @@
 .tahoe-map {
     height: 100%;
     flex-grow: 2;
+    position: relative;
 }
 
 .map-label {
@@ -123,4 +124,49 @@
     background-color: #610d0d;
     padding: 5px;
     border-radius: 50%;
+}
+
+.acknowledgements {
+    position: absolute;
+    left: 15px;
+    bottom: 15px;
+    z-index: 1000;
+
+    cursor: pointer;
+    text-transform: uppercase;
+    color: #0f5160;
+    font-weight: 400;
+    font-size: 15.6px;
+}
+
+.acknowledgements-popup {
+    background-color: #0d5061;
+    border: 1px solid white;
+    max-width: 200px;
+    padding: 24px;
+    
+    color: white;
+    cursor: auto;
+    text-transform: none;
+    font-size: 10px;
+    line-height: 20px;
+    font-weight: 300;
+}
+
+.acknowledgements img {
+    cursor: auto;
+    margin-left: -7px;
+}
+
+.acknowledgements-header {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.acknowledgements-close {
+    font-weight: 400;
+    font-size: 13px;
+    cursor: pointer;
 }
