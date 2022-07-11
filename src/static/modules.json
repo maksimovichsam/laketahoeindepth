@@ -163,6 +163,20 @@
         "image": "/laketahoeindepth/static/img/module-lake-conditions.png",
         "href": "lake-conditions",
         "description": "Varying wave height, water temperature, algae concentrations, clarity, and lake levels all combine to create a complex and ever-changing freshwater environment.",
+        "BOTTOM_TABS": [
+            {
+                "name": "Historical",
+                "time_range": ["2021-07-01", "2022-01-01"]
+            }, 
+            {
+                "name": "Previous Week",
+                "time_range": [-14, -7]
+            },
+            {
+                "name": "Current Week",
+                "time_range": [-7, 0]
+            }
+        ],
         "TABS": {
             "WAVE_HEIGHT": {
                 "name": "Wave Height",

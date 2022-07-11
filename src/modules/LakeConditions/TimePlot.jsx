@@ -4,7 +4,7 @@ import { line, scaleLinear, select, zip } from "d3";
 
 import "./LakeConditions.css";
 
-import { DAYS_OF_WEEK, getDaysBetween, MONTHS, round } from "../../js/util";
+import { axis_ticks_auto, DAYS_OF_WEEK, getDatesBetween, MONTHS, ONE_DAY, ONE_MONTH, ONE_YEAR, round } from "../../js/util";
 
 function TimePlot(props) {
     ///////////////////////////////////
@@ -42,12 +42,7 @@ function TimePlot(props) {
 
     y_ticks = y_ticks ?? 3;
     if (isFinite(y_ticks)) {
-        const num_ticks = y_ticks;
-        y_ticks = [];
-        for (let i = 0; i < num_ticks; i++) {
-            const y_value = min_y + (max_y - min_y) * (i / (num_ticks - 1));
-            y_ticks.push(y_value);
-        }
+        y_ticks = axis_ticks_auto(min_y, max_y, undefined, y_ticks);
     }
 
     // Render chart
@@ -73,32 +68,40 @@ function TimePlot(props) {
             .text((d) => round(d, 1));
 
         // Create x labels
-        const day_y = chart_height + 10;
-        const date_y = day_y + 15;
-        const get_day_of_week = (d) => {
+        const x_tick_line1 = chart_height + 10;
+        const x_tick_line2 = x_tick_line1 + 15;
+        
+        const x_ticks = axis_ticks_auto(min_t, max_t, [ONE_DAY, ONE_MONTH, ONE_YEAR], 8);
+        const day_formatter = (d) => {
             let day = DAYS_OF_WEEK[d.getDay()].toUpperCase();
-            return `${day}`;
-        };
-        const get_date = (d) => {
             let month = MONTHS[d.getMonth()].substring(0, 3).toUpperCase();
             let date = d.getDate();
-            return `${month} ${date}`;
+            return [`${month} ${date}`, `${day}`];
         };
-        const x_ticks = getDaysBetween(new Date(min_t), new Date(max_t));
+        const other_formatter = (d) => {
+            let month = MONTHS[d.getMonth()].substring(0, 3).toUpperCase();
+            let year = d.getFullYear();
+            return [month, year];
+        };
+
+        const number_of_days = (max_t - min_t) / ONE_DAY; 
+        const x_tick_formatter = (number_of_days >= 20) ? other_formatter : day_formatter;
+
+        // getDatesBetween(new Date(min_t), new Date(max_t));
         svg.select("#time-plot-x-labels")
             .selectAll("text")
             .data(x_ticks)
             .join("text")
-            .attr("x", (d) => x_scale(d.getTime()))
-            .attr("y", date_y)
-            .text(get_date);
+            .attr("x", (d) => x_scale(d))
+            .attr("y", x_tick_line2)
+            .text((d) => x_tick_formatter(new Date(d))[1]);
         svg.select("#time-plot-x-labels")
             .selectAll("text.day")
             .data(x_ticks)
             .join("text")
-            .attr("x", (d) => x_scale(d.getTime()))
-            .attr("y", day_y)
-            .text(get_day_of_week);
+            .attr("x", (d) => x_scale(d))
+            .attr("y", x_tick_line1)
+            .text((d) => x_tick_formatter(new Date(d))[0]);
 
     }, [time, y]);
 

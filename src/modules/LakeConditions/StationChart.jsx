@@ -3,11 +3,12 @@ import { useOutletContext } from "react-router-dom";
 
 import TimePlot from "./TimePlot";
 import ColorMarker from "../../components/TahoeMap/ColorMarker";
+import ErrorMarker from "../../components/TahoeMap/ErrorMarker";
+import ModuleBottomTabs from "../../components/TabGroup/ModuleBottomTabs/ModuleBottomTabs";
 import "./LakeConditions.css"
 
-import { colorScale, createLatLng, today, useForceUpdate } from "../../js/util";
+import { colorScale, createLatLng, today, useForceUpdate, useIsMounted } from "../../js/util";
 import { TercAPI } from "../../js/terc_api";
-import ErrorMarker from "../../components/TahoeMap/ErrorMarker";
 
 import APP_CONFIG from "../../static/app_config.json";
 
@@ -16,7 +17,10 @@ function StationChart(props) {
     // Expected props
     // data_type_name: the name of the data to display, a static member of TercAPI
     // chart_props: props to pass onto TimePlot
+    // start_date: the start date of the chart
+    // end_date: the end date of the chart
     const forceUpdate = useForceUpdate();
+    const isMounted = useIsMounted();
     const [[map_markers, setMapMarkers, active_location_idx, setActiveLocation]] = useOutletContext();
     const [ current_station_data, setCurrentStationData ] = useState({ 
         "time": undefined, 
@@ -26,11 +30,8 @@ function StationChart(props) {
     const is_downloading = time === undefined && station_data === undefined;
     const is_unavailable = time === null && station_data === null;
 
-    let { data_type_name, chart_props } = props;
+    let { data_type_name, chart_props, start_date, end_date } = props;
     chart_props = chart_props ?? {};
-
-    const data_start_date = today(-7);
-    const data_end_date = today();
 
     const STATIONS = TercAPI.get_stations_with_data_type(data_type_name);
 
@@ -42,7 +43,7 @@ function StationChart(props) {
         if (!current_station)
             return;
         current_station
-            .get_data(data_start_date, data_end_date, data_type_name)
+            .get_data(start_date, end_date, data_type_name)
             .then((data) => {
                 let time = data[TercAPI.TIME_KEY];
                 let station_data = data[data_type_name];
@@ -52,7 +53,7 @@ function StationChart(props) {
                 console.log(err);
                 setCurrentStationData({"time": null, "station_data": null});
             });
-    }, [active_location_idx]);
+    }, [active_location_idx, start_date, end_date]);
 
     ///////////////////////////////////////
     // Setup all stations
@@ -63,12 +64,12 @@ function StationChart(props) {
                                     position={createLatLng(...APP_CONFIG.MAP_CENTER)}
                                     text={"Loading"}
                                     />;
-        setMapMarkers([loading_marker])
+        setMapMarkers([loading_marker]);
 
         // Download all station data           
         Promise.all(STATIONS
             .map((station) => 
-                station.get_most_recent_data(data_start_date, data_end_date, data_type_name)
+                station.get_most_recent_data(start_date, end_date, data_type_name)
                     .catch(err => {
                         console.log(`Failed to download valid data from station '${station.name}'`)
                         console.log(err);
@@ -110,9 +111,11 @@ function StationChart(props) {
                         onClick={() => setActiveLocation(idx)}
                         />  
                 });
-            setMapMarkers(station_map_markers);
+
+            if (isMounted())
+                setMapMarkers(station_map_markers);
         })
-    }, []);
+    }, [start_date, end_date]);
 
     return (
         <div className="lake-conditions-chart-container"> 

@@ -1,9 +1,9 @@
 import ACTIVITIES from "../static/activities.json";
 
-import { useState } from "react";
+import { useState, useRef, useEffect, useCallback } from "react";
 
 export const DAYS_OF_WEEK = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-export const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "October", "November", "December"];
+export const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 export const SEASONS = ["Spring", "Summer", "Fall", "Winter"];
 export const SEASON_TIMES = [   
     ["03-21", "06-20"],
@@ -11,6 +11,12 @@ export const SEASON_TIMES = [
     ["09-21", "12-20"],
     ["01-01", "03-20"]
 ];
+
+export const ONE_MINUTE = 60 * 1000;
+export const ONE_HOUR = 60 * ONE_MINUTE;
+export const ONE_DAY = 24 * ONE_HOUR;
+export const ONE_MONTH = 31 * ONE_DAY;
+export const ONE_YEAR = 356 * ONE_DAY;
 
 export function createLatLng(lat, lon) {
     // Creates a latitude longitude object
@@ -152,7 +158,6 @@ export function extract_time_series(array) {
     if (array === undefined)
         return [];
 
-    const HOUR = 60 * 60 * 1000;
     let time = [];
     let values = [];
     for (let { validTime, value } of array) {
@@ -162,7 +167,7 @@ export function extract_time_series(array) {
         for (let i = 0; i < duration; i++) {
             time.push(date);
             values.push(value);
-            date = new Date(date.getTime() + HOUR);
+            date = new Date(date.getTime() + ONE_HOUR);
         }
     }
     
@@ -267,9 +272,8 @@ export function today(days) {
     //  days (optional, default: 0): an integer 
     days = days ?? 0;
 
-    const ONE_DAY_IN_MS = 24 * 60 * 60 * 1000;
     let now = new Date();
-    now = new Date(now.getTime() + days * ONE_DAY_IN_MS);
+    now = new Date(now.getTime() + days * ONE_DAY);
     return now;
 }
 
@@ -354,18 +358,19 @@ export function useForceUpdate(){
     return () => setValue(value => value + 1); // update state to force render
 }
 
-export function getDaysBetween(start_date, end_date) {
+export function getDatesBetween(start_date, end_date, date_increment) {
+    date_increment = date_increment ?? ONE_DAY;
+
     // Returns the days between start date and end date
-    const ONE_DAY = 24 * 60 * 60 * 1000;
     let start = new Date(start_date.getTime());
     start.setHours(0);
     start.setMinutes(0);
     start.setSeconds(0);
     start.setMilliseconds(0);
     if (start < start_date)
-        start = new Date(start.getTime() + ONE_DAY);
+        start = new Date(start.getTime() + date_increment);
     let res = [];
-    for (let t = start.getTime(); t < end_date.getTime(); t += ONE_DAY)
+    for (let t = start.getTime(); t < end_date.getTime(); t += date_increment)
         res.push(new Date(t));
     return res;
 }
@@ -456,3 +461,73 @@ export const ice_to_fire = colorScale(
     [155, 228, 239], [225, 233, 209], [243, 213, 115], [231, 176, 0], [218, 130, 0], [198, 84, 0],
     [172, 35, 0], [130, 0, 0], [76, 0, 0]], false
 );
+
+export function parse_time_range(range) {
+    // Parses an Array of (String | Number)
+    // if String it is interpreted as a date
+    // if Number it is interpreted as 'x' amount of days before today's date
+    return range.map((x) => {
+        if (typeof x === 'number')
+            return today(x);
+        return new Date(x);
+    })
+}
+
+export function axis_ticks_auto(x_min, x_max, acceptable_increments, max_ticks) {
+    // Used to choose which values are displayed as ticks on some axis
+    //
+    // Arguments:
+    //  x_min: the minimum value of the axis
+    //  x_max: the maximum value of the axis
+    //  acceptable_increments (optional): an Array of acceptable increments between ticks, monotonically increasing
+    //  max_ticks (optional): the maximum number of ticks on the axis, default=7
+    // Returns:
+    //  an Array of x values of where to place ticks on some axis
+    acceptable_increments = acceptable_increments ?? [0.1, 0.25, 0.5, 1, 2, 5, 10, 25, 50, 100, 1000];
+    max_ticks = max_ticks ?? 7;
+
+    // number of ticks for each increment
+    let number_of_ticks = acceptable_increments
+        .map((increment) => {
+            let tick_start = increment * Math.ceil(x_min / increment);
+            let tick_end = increment * Math.floor(x_max / increment);
+
+            if (tick_start >= tick_end)
+                return 0;
+
+            let num_ticks = Math.floor((tick_end - tick_start) / increment) + 1; 
+            return num_ticks;
+        });
+
+    // find the greatest number of ticks that is less than max ticks
+    // could use binary search here but too lazy to implement
+    let best_increment_index = number_of_ticks - 1;
+    for (let i = number_of_ticks.length - 2; i >= 0; i--) {
+        if (number_of_ticks[i] > max_ticks) {
+            best_increment_index = i + 1;
+            break;
+        } else if (i == 0) {
+            best_increment_index = 0;
+        }
+    }
+
+    const best_increment = acceptable_increments[best_increment_index];
+    const tick_start = best_increment * Math.ceil(x_min / best_increment);
+    const tick_end = best_increment * Math.floor(x_max / best_increment);
+    const ticks = [];
+    for (let i = tick_start; i <= tick_end; i += best_increment)
+        ticks.push(i)
+    return ticks;
+}
+
+export function useIsMounted() {
+    // https://stackoverflow.com/a/64379060/9175592
+    const isMountedRef = useRef(true);
+    const isMounted = useCallback(() => isMountedRef.current, []);
+
+    useEffect(() => {
+        return () => void (isMountedRef.current = false);
+    }, []);
+
+    return isMounted;
+}
