@@ -40,25 +40,35 @@ function StationChart(props) {
     ///////////////////////////////////////
     const current_station = STATIONS[active_location_idx];
     useEffect(() => {
+        let ignore = false;
+
+        // Set data to downloading state
+        setCurrentStationData({"time": undefined, "station_data": undefined});
         if (!current_station)
             return;
+
         current_station
             .get_data(start_date, end_date, data_type_name)
             .then((data) => {
                 let time = data[TercAPI.TIME_KEY];
                 let station_data = data[data_type_name];
-                setCurrentStationData({"time": time, "station_data": station_data});
+                if (!ignore)
+                    setCurrentStationData({"time": time, "station_data": station_data});
             })
             .catch((err) => {
                 console.log(err);
-                setCurrentStationData({"time": null, "station_data": null});
+                if (!ignore)
+                    setCurrentStationData({"time": null, "station_data": null});
             });
+
+        return () => { ignore = true; };
     }, [active_location_idx, start_date, end_date]);
 
     ///////////////////////////////////////
     // Setup all stations
     ///////////////////////////////////////
     useEffect(() => {
+        let ignore = false;
         const loading_marker = <ColorMarker
                                     key={`location-marker`}
                                     position={createLatLng(...APP_CONFIG.MAP_CENTER)}
@@ -112,9 +122,11 @@ function StationChart(props) {
                         />  
                 });
 
-            if (isMounted())
+            if (isMounted() && !ignore)
                 setMapMarkers(station_map_markers);
         })
+
+        return () => { ignore = true; };
     }, [start_date, end_date]);
 
     return (
