@@ -139,6 +139,7 @@
         }
     },
     "CITIZEN_SCIENCE": {
+        "active": false,
         "name": "Citizen Science",
         "image": "/laketahoeindepth/static/img/module-citizen-science.png",
         "href": "citizen-science",

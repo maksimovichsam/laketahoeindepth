@@ -45,19 +45,27 @@ function App() {
 
 
     const active_module = Object.values(MODULES)[module_index];
-    const module_buttons = Object.values(MODULES).map((m, idx) => 
-        <ModuleButton 
-            key={m.name}
-            active={idx === module_index}
-            name={m.name} 
-            image={m.image}
-            href={m.href}
-            onClick={() => {
-                setActiveLocation(0);
-                setModuleIndex(idx);
-            }}
-            />
-    );
+    const module_buttons = Object.values(MODULES)
+        .reduce((filtered, module, idx) => {
+            const button = (
+                <ModuleButton 
+                    key={module.name}
+                    active={idx === module_index}
+                    name={module.name} 
+                    image={module.image}
+                    href={module.href}
+                    onClick={() => {
+                        setActiveLocation(0);
+                        setModuleIndex(idx);
+                    }}
+                    />
+                );
+            
+            const module_is_active = module.active !== false;
+            if (module_is_active)
+                filtered.push(button);
+            return filtered;
+        }, []);
 
     return (
         <div className="App">
